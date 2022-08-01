@@ -17,7 +17,7 @@ Amount: $
 ### Audience
 
 <!--
-Please check relevant options, delete irrelevant ones.
+Please check relevant options and delete irrelevant ones.
 
 - [X] = Checked
 - [ ] = Unchecked
