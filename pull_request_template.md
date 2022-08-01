@@ -49,10 +49,10 @@ Ex.
 * Are there particularly relevant documentation pages?
 -->
 
-### Discussion Questions
-
 <!--
-This section will be removed in approved bounties, but is useful in proposals to highlight anything you'd like feedback on from the community, or from reviewers of this proposal.
+NOTE FOR AFTER YOU OPEN THE PULL REQUEST
 
-Ex. "I'm not sure the exact amount to award, so feedback on how hard this would be to do is appreciated."
+Feel free to comment what you'd like feedback on from other community members or maintainers. Its ok not to have all the answers up front!
+
+Ex. "I'm not sure the exact amount to award, so feedback on how much this would be worth to complete would be appreciated."
 -->
