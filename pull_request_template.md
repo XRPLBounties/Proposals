@@ -9,7 +9,7 @@ Ex. "Build an integration with Shopify that allows businesses to easily add XRP 
 Description:
 
 <!--
-Please indicate what you think a fair payment for completion of this bounty would be. The exact amount will be determined by the approving committee and may be higher or lower than the initial estimate
+Recommend a total value amount for the bounty, in U.S. Dollars. The exact amount will be determined by the approving committee and may be higher or lower than this recommendation.
 -->
 
 Amount: $
@@ -17,15 +17,10 @@ Amount: $
 ### Audience
 
 <!--
-Please check relevant options and delete irrelevant ones.
+Please list a couple bullets describing the target audience of this bounty.
 
-- [X] = Checked
-- [ ] = Unchecked
+Ex. First time XRPL builders, experienced XRPL builders, industry experts, etc.
 -->
-
-- [ ] First time XRPL builders
-- [ ] Experienced XRPL builders
-- [ ] CUSTOM - Replace this with your own category
 
 ### Full Description
 
