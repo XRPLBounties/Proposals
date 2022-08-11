@@ -2,7 +2,7 @@
 
 **Category:** E-commerce
 
-**Amount:** $20,000
+**Proposed Amount:** $20,000
 
 **Status:** Draft
 
