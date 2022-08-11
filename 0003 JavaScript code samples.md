@@ -2,7 +2,7 @@
 
 **Category:** Technical Documentation
 
-**Amount:** $2,000
+**Proposed Amount:** $2,000
 
 **Status:** Draft
 
