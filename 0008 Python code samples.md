@@ -4,7 +4,7 @@
 
 **Proposed Amount:** $7,500
 
-**Status:** Draft (not available for bounty hunters)
+**Status:** Draft (not yet available for bounty hunters)
 
 ## Overview
 
