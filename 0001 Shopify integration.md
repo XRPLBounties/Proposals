@@ -14,8 +14,8 @@
 
 | # | Description | Details | Proposed Potential Award |
 | --- | --- | --- | --- |
-| 1 | Enable Shopify merchants to accept XRP payments | Similar to accepting bitcoin, a merchant should be able to accept XRP | $5,000 |
-| 2 | Enable Shopify merchants to accept XRP payments directly from 2 different XRP wallets | Examples of XRP wallets: [Xumm](https://xumm.app/), [Ledger Nano](https://www.ledger.com/), [Exodus](https://www.exodus.com/), [Trust Wallet](https://trustwallet.com/xrp-wallet/) | $15,000 |
+| 1 | Enable Shopify merchants to accept XRP payments | Similar to accepting bitcoin, any Shopify merchant should be able to accept XRP | $5,000 |
+| 2 | Enable Shopify merchants to accept XRP payments directly from 2 different XRP wallets | Examples of XRP wallets: [Xumm](https://xumm.app/), [Ledger Nano](https://www.ledger.com/), [Exodus](https://www.exodus.com/), [Trust Wallet](https://trustwallet.com/xrp-wallet/). Support for payments must be demonstrated from at least two different wallet implementations. | $15,000 |
 
 ## Market Demand
 
