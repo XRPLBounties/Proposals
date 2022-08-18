@@ -23,6 +23,6 @@ https://xrpl.org/code-samples.html
 | 1 | [Cryptographic Key Derivation](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/key-derivation) | Derive secp256k1 or Ed25519 key pairs from seeds in any of the XRP Ledger's encodings and formats. This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 |
 | 2 | [Transaction Serialization](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/tx-serialization) |  This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 |
 
-A milestone is complete only after the relevant code sample has been approved, merged, and deployed onto XRPL.org.
+➡️ A milestone is complete only after the relevant code sample has been approved, merged, and deployed onto XRPL.org.
 
 **Ripple internal ID:** DGE-94
