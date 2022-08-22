@@ -2,7 +2,7 @@
 
 This repository is used to propose and discuss ideas for bounties.
 
-1. Initial proposal: anyone can publicly share an idea by creating an Issue.
+1. Initial proposal: anyone can publicly share an idea by creating a [Discussion in the Ideas category](https://github.com/XRPLBounties/Proposals/discussions/categories/ideas).
 
 2. Formal proposal: anyone can publicly draft the formal requirements for a bounty by opening a Pull Request (PR).
 
