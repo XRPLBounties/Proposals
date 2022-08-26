@@ -17,7 +17,7 @@ Especially with XLS-20 (NFT feature on XRPL) soon to be added to mainnet, it’l
 | # | Description | Details | Proposed Potential Award |
 | --- | --- | --- | --- |
 | 1 | Create the XRPL plugin for Unity | This plugin should improve the developer experience of integrating Unity apps on the XRPL. | $1,500 |
-| 2 | Create a Unity app using the plugin | Implement a proof-of-concept app using the XRPL plugin. An example could be a game that supports in-app payments and NFT trading. | $1,500 |
+| 2 | Create a Unity application using the XRPL plugin | Implement a proof-of-concept app using the XRPL plugin. An example could be a game that supports in-app payments and NFT trading. | $1,500 |
 
 ## Helpful Resources
 - https://docs.unity3d.com/Manual/Plugins.html
