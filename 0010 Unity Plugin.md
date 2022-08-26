@@ -12,7 +12,6 @@ In-app payments for games have been on the rise and there’s no Unity plugin th
 
 Especially with XLS-20 (NFT feature on XRPL) soon to be added to mainnet, it’ll be beneficial to create a Unity plugin to easily integrate XRPL payments for in-app game payments such as NFTs.
 
-
 ## Milestones
 
 | # | Description | Details | Proposed Potential Award |
