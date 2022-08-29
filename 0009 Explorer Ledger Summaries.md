@@ -4,8 +4,6 @@
 
 **Proposed Amount:** $3,000
 
-**Status:** Draft (not yet available for bounty hunters)
-
 ## Overview
 When viewing a particular ledger (e.g. [Ledger Page](https://livenet.xrpl.org/ledgers/69537171)) in addition to showing a table of transaction a collection of metrics for the ledger should be show.
 
