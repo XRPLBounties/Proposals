@@ -6,11 +6,11 @@
 
 ## Overview
 
-[Unity](https://www.unity.com/) is a cross-platform game engine. It's used to build real-time 3D projects for various industries across games, animation, automotive, architecture, and more.
+[Unity](https://www.unity.com/) the most popular game engine for indie developers and mobile games. It's a cross-platform engine used to build real-time 3D projects for various industries across games, animation, automotive, architecture, and more.
 
-In-app payments for games have been on the rise and there’s no Unity plugin that allows native integration on the XRPL. Tackling this use case for this popular game engine can further grow the XRPL ecosystem.
+In-app payments and NFTs for games have been on the rise and there’s no Unity plugin that allows native integration on the XRPL. Tackling this use case for this popular game engine can further grow the XRPL ecosystem.
 
-Especially with XLS-20 (NFT feature on XRPL) soon to be added to mainnet, it’ll be beneficial to create a Unity plugin to easily integrate XRPL payments for in-app game payments such as NFTs.
+Especially with XLS-20 (NFT feature on XRPL) soon to be added to mainnet, it’ll be beneficial to create a Unity plugin to easily integrate in-app game payments and NFT trading on the XRPL.
 
 ## Milestones
 
