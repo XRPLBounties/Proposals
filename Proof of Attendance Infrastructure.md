@@ -16,7 +16,7 @@ See similar infrastructure built on Ethereum https://poap.xyz/#
 Basic requirements:
 
 1. Given a minter - able to mint NFTs for all attendees with the same metadata and artwork (artwork should be hosted somewhere that's not XRPL).
-   The NFT minted should include a memo field that include information about the event (date, location and description) and an artwork that represents the event.
+   The NFT minted should include a memo/taxon field that include information about the event (date, location and description) and an artwork that represents the event.
 2. Provide a gateway for attendees to collect the NFTs through their wallets or creating new wallets and distributing them securely.
 
 ## Milestones
