@@ -1,3 +1,5 @@
+![XRPLBounties_ Banner](https://user-images.githubusercontent.com/81505/187058580-15bde16a-18b8-47b4-940f-80401564a99c.png)
+
 # Welcome to XRPL Bounties!
 
 This is where you can find bounties to work on, propose new ideas for bounties, or add your thoughts to the discussion!
