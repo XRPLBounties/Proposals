@@ -6,7 +6,7 @@
 
 ## Overview
 
-[Unity](https://www.unity.com/) the most popular game engine for indie developers and mobile games. It's a cross-platform engine used to build real-time 3D projects for various industries across games, animation, automotive, architecture, and more.
+[Unity](https://www.unity.com/) is the most popular game engine for indie developers and mobile games. It's a cross-platform engine used to build real-time 3D projects for various industries across games, animation, automotive, architecture, and more.
 
 In-app payments and NFTs for games have been on the rise and there’s no Unity plugin that allows native integration on the XRPL. Tackling this use case for this popular game engine can further grow the XRPL ecosystem.
 
