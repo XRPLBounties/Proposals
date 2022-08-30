@@ -4,8 +4,6 @@
 
 **Proposed Amount:** $7,500
 
-**Status:** Draft (not yet available for bounty hunters)
-
 ## Overview
 
 The XRP Ledger Dev Portal contains many [code samples](https://xrpl.org/code-samples.html), but some of them are not available in Python. Developers would benefit from additional relevant, high quality, well-documented examples in Python.
