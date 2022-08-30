@@ -22,6 +22,7 @@ The following metrics should be shown above the transaction table and accompanie
 	- Summaries of the amount of ledger objects by type (Accounts, Offers, Escrows, TrustLines, Paychannel, etc.)
 	
 ### Proposed Visuals
+The new data should follow the design below.  It shows what it would look like with the current metrics.  The new metrics would use the same styling
 ![Explorer Ledger Proposed Design](./images/explorer-ledger-proposed-design.png)
 
 ## Milestones
