@@ -12,11 +12,14 @@ In-app payments and NFTs for games have been on the rise and there’s no Unity 
 
 Especially with XLS-20 (NFT feature on XRPL) soon to be added to mainnet, it’ll be beneficial to create an XRPL code-plugin for Unity to easily integrate in-app game payments and NFT trading on the XRPL.
 
+The plug in should be listed for free on the Unity Asset Store and be well-documented.
+It will need to be able to handle payments, and be able to handle minting, burning, and trading of NFTs using the XRPL.
+
 ## Milestones
 
 | # | Description | Details | Proposed Potential Award |
 | --- | --- | --- | --- |
-| 1 | Create the XRPL code-plugin for Unity | This plugin should improve the developer experience of integrating XRPL payments and NFT trading natively within Unity apps. | $1,500 |
+| 1 | Create the XRPL code-plugin for Unity | This plugin should improve the developer experience of integrating XRPL payments and NFT trading natively within Unity apps. | $3,500 |
 | 2 | Create a Unity application using the XRPL code-plugin | Implement a proof-of-concept app using the XRPL code-plugin built in Milestone 1. An example could be a game that supports in-app payments and/or NFT trading. | $1,500 |
 
 ## Helpful Resources
