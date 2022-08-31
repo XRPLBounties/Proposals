@@ -2,7 +2,7 @@
 
 **Category:** Game Development
 
-**Proposed Amount:** $3,000
+**Proposed Amount:** $5,000
 
 ## Overview
 
