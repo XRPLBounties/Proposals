@@ -26,7 +26,7 @@ If you see a bounty you like in the repo, feel free to get started!
 
 <br>
 
-# Submit a Bounty
+# Claim a Bounty
 
 Once you’ve completed a milestone, you can submit to claim that piece of the bounty with this form: https://ripplelabs.typeform.com/bounty-program
 
