@@ -25,7 +25,7 @@ Bounty work is usually split into milestones, which divide the work into increme
 
 If you see a bounty you like in the repo, feel free to get started!
 
-To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: <br>
+To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: 
 https://xrpl.typeform.com/bounty-interest
 
 <br>
@@ -34,7 +34,7 @@ https://xrpl.typeform.com/bounty-interest
 
 Once you’ve completed a milestone, you can submit to claim that piece of the bounty with this form: https://ripplelabs.typeform.com/bounty-program
 
-> Note: You must be over 18 years old and you must not be on a sanctions list or within a sanctioned country in order to receive a bounty. <br> This compliance requirement also extends to your teammates. <br>[See the full terms and conditions to see if you qualify.](terms_and_conditions.txt)
+> Note: You and your team must be over 18 years old and you must not be on a sanctions list or within a sanctioned country in order to receive a bounty. <br>[See the full terms and conditions to see if you qualify.](terms_and_conditions.txt)
 
 Be aware that in order to validate that you are eligible to receive payment, you will need to share your real name when trying to claim a bounty.
 
