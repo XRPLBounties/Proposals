@@ -4,9 +4,10 @@
 
 This is where you can find bounties to work on, propose new ideas for bounties, or add your thoughts to the discussion!
 The XRPL Bounties program helps to:
-* Give new contributors meaningful projects to tackle
-* Fill in the gaps in the XRPL ecosystem
-* Solicit help from various experts on problems which require domain expertise!
+
+- Give new contributors meaningful projects to tackle
+- Fill in the gaps in the XRPL ecosystem
+- Solicit help from various experts on problems which require domain expertise!
 
 All while paying people for the contributions they make. 💰
 
@@ -33,7 +34,7 @@ https://xrpl.typeform.com/bounty-interest
 
 Once you’ve completed a milestone, you can submit to claim that piece of the bounty with this form: https://ripplelabs.typeform.com/bounty-program
 
-> Note: You must be over 18 years old and you must not be on a sanctions list or within a sanctioned country in order to receive a bounty. <br> This compliance requirement also extends to your teammates.
+> Note: You must be over 18 years old and you must not be on a sanctions list or within a sanctioned country in order to receive a bounty. <br> This compliance requirement also extends to your teammates. [See the full terms and conditions to see if you qualify.](terms_and_conditions.txt)
 
 Be aware that in order to validate that you are eligible to receive payment, you will need to share your real name when trying to claim a bounty.
 
@@ -45,7 +46,7 @@ If you see a problem that may be great for someone in the community to tackle, p
 
 The easiest way to get started with proposing a new bounty idea is to create a new [Discussion](https://github.com/XRPLBounties/Proposals/discussions) topic for your idea. That way you can see what other community members think, and have some space to think through some potential solutions.
 
-Before you post though, make sure to do a cursory search to see if the idea has already been proposed! <br> 
+Before you post though, make sure to do a cursory search to see if the idea has already been proposed! <br>
 (If it has, just add your thoughts to that discussion 🙂) <br>
 https://github.com/XRPLBounties/Proposals/discussions
 
@@ -69,7 +70,11 @@ If you see a bounty that you think is particularly important you can upvote it t
 <br>
 
 ## Links
-* See existing bounties: https://github.com/XRPLBounties/Proposals
-* Submit a bounty: https://ripplelabs.typeform.com/bounty-program
-* Propose a new bounty: https://github.com/XRPLBounties/Proposwals/discussions/new?category=ideas
-* Join the discussion for proposed bounties: https://github.com/XRPLBounties/Proposals/discussions
+
+- See existing bounties: https://github.com/XRPLBounties/Proposals
+- Indicate your interest in a bounty: https://xrpl.typeform.com/bounty-interest
+- Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
+- Submit your work to claim a bounty: https://ripplelabs.typeform.com/bounty-program
+
+- See other people's ideas for bounties: https://github.com/XRPLBounties/Proposals/discussions
+- Share an idea for a bounty: https://github.com/XRPLBounties/Proposwals/discussions/new?category=ideas
