@@ -20,5 +20,6 @@ As part of that, you would have to:
 Beyond that, other milestones involve adding additional features to allow game developers to have more access to the XRPL.
 
 | # | High-Level Description | Details | Proposed Potential Award |
+| --- | --- | --- | --- |
 | 1 | Basic Plug-In | Create a free, well-documented “Code Plug-In” on the Unreal Engine Marketplace that meets the 4 requirements above. | $2,000 |
 | 2 | Proof of Concept | Create an example game which allows for payments as an example for other developers | $1,000 |
