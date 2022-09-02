@@ -81,4 +81,4 @@ If you see a bounty that you think is particularly important you can upvote it t
 <br>
 
 - See other people's ideas for bounties: https://github.com/XRPLBounties/Proposals/discussions
-- Share an idea for a bounty: https://github.com/XRPLBounties/Proposwals/discussions/new?category=ideas
+- Share an idea for a bounty: https://github.com/XRPLBounties/Proposals/discussions/new?category=ideas
