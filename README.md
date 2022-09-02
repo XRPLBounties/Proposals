@@ -24,6 +24,9 @@ Bounty work is usually split into milestones, which divide the work into increme
 
 If you see a bounty you like in the repo, feel free to get started!
 
+To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: <br>
+https://xrpl.typeform.com/bounty-interest
+
 <br>
 
 # Claim a Bounty
