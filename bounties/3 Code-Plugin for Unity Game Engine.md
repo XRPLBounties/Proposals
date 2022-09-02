@@ -1,4 +1,4 @@
-# XRPL Code-Plugin for Unity Game Engine
+# Code-Plugin for Unity Game Engine
 
 **Category:** Game Development
 
