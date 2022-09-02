@@ -76,7 +76,7 @@ If you see a bounty that you think is particularly important you can upvote it t
 - See existing bounties: https://github.com/XRPLBounties/Proposals (This page)
 - Indicate your interest in a bounty: [https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 - Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
-- Submit your work to claim a bounty: [https://ripplelabs.typeform.com/bounty-program](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+- Submit your work to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 
 <br>
 
