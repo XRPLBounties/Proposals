@@ -36,8 +36,8 @@ The following bounties are available for anyone to pick up:
 
 - [JavaScript code samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0%20JavaScript%20code%20samples.md)
 - [Python code samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/1%20Python%20code%20samples.md)
-- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/bounties/2%20XRPL%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
-- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/bounties/3%20Explorer%20Ledger%20Summaries.md)
+- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/bounties/2%20Ledger%20Metrics.md)
+- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/bounties/3%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/bounties/4%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/bounties/5%20Proof%20of%20Attendance%20Infrastructure.md)
 
