@@ -32,7 +32,7 @@ https://xrpl.typeform.com/bounty-interest
 
 # Claim a Bounty
 
-**Use this form to claim a bounty: https://ripplelabs.typeform.com/bounty-program**
+**Use this form to claim a bounty: https://xrpl.typeform.com/xrpl-bounties**
 
 Keep in mind that the first milestone is usually required in order to claim the bounty.
 
