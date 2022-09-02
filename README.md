@@ -32,7 +32,9 @@ https://xrpl.typeform.com/bounty-interest
 
 # Claim a Bounty
 
-Once you’ve completed a milestone, you can submit to claim that piece of the bounty with this form: https://ripplelabs.typeform.com/bounty-program
+**Use this form to claim a bounty: https://ripplelabs.typeform.com/bounty-program**
+
+Keep in mind that the first milestone is usually required in order to claim the bounty.
 
 > Note: You and your team must be over 18 years old and you must not be on a sanctions list or within a sanctioned country in order to receive a bounty. <br>[See the full terms and conditions to see if you qualify.](terms_and_conditions.txt)
 
