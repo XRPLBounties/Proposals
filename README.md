@@ -1,8 +1,8 @@
 ![XRPLBounties_ Banner](https://user-images.githubusercontent.com/81505/187058580-15bde16a-18b8-47b4-940f-80401564a99c.png)
 
-# Welcome to XRPL Bounties!
+# Welcome to XRPL Bounties
 
-This is where you can find bounties to work on, propose new ideas for bounties, or add your thoughts to the discussion!
+This is where you'll find bounties to work on, propose new ideas for bounties, or add your thoughts to the discussions!
 The XRPL Bounties program helps to:
 
 - Give new contributors meaningful projects to tackle
@@ -17,7 +17,7 @@ All while paying people for the contributions they make. 💰
 
 Approved bounties can be found above as `.md` (Markdown) files in this repo.
 
-(Pull requests are NOT approved bounties - they are still pending review and approval)
+(Open Pull Requests are NOT approved bounties - they are still pending review and approval.)
 
 Each bounty will describe a problem, what the work entails, and how much money will be awarded on completion.
 
@@ -27,6 +27,19 @@ If you see a bounty you like in the repo, feel free to get started!
 
 To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: 
 [https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+
+<br>
+
+# List of Open Bounties
+
+The following bounties are available for anyone to pick up:
+
+- [JavaScript code samples](https://github.com/XRPLBounties/Proposals/blob/main/0003%20JavaScript%20code%20samples.md)
+- [Python code samples](https://github.com/XRPLBounties/Proposals/blob/main/0008%20Python%20code%20samples.md)
+- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/0009%20Explorer%20Ledger%20Summaries.md)
+- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/0010%20XRPL%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
+- [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/0011%20Unreal%20Engine%205%20Integration.md)
+- [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/Proof%20of%20Attendance%20Infrastructure.md)
 
 <br>
 
