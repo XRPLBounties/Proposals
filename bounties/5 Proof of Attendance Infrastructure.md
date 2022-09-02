@@ -1,3 +1,5 @@
+# Proof of Attendance Infrastructure
+
 **Category:** New Feature/ Community Event Management Tool
 
 **Proposed Amount:** $6,000
