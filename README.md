@@ -34,7 +34,7 @@ To indicate interest in a bounty, self-test for basic eligibility, and get an em
 
 The following bounties are available for anyone to pick up:
 
-- [JavaScript code samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0%20JavaScript%20code%20samples.md)
+- [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0031%20JavaScript%20Code%20Samples.md)
 - [Python code samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/1%20Python%20code%20samples.md)
 - [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/bounties/2%20Ledger%20Metrics.md)
 - [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/bounties/3%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
