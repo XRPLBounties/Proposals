@@ -1,8 +1,12 @@
+---
+ID: "0015"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/0015
+Category: Game Development
+Status: Open
+Amount: $5,000
+---
+
 # Code-Plugin for Unity Game Engine
-
-**Category:** Game Development
-
-**Proposed Amount:** $5,000
 
 ## Overview
 
