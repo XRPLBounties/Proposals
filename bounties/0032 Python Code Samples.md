@@ -1,8 +1,12 @@
-# Python code samples
+---
+ID: "0032"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/0032
+Category: Technical Documentation
+Status: Open
+Amount: $7,500
+---
 
-**Category:** Technical Documentation
-
-**Proposed Amount:** $7,500
+# Python Code Samples
 
 ## Overview
 
