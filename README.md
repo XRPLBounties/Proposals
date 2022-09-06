@@ -15,7 +15,7 @@ All while paying people for the contributions they make. 💰
 
 # Pick Up a Bounty
 
-Approved bounties can be found above as `.md` (Markdown) files in this repo.
+Approved bounties can be found above as `.md` (Markdown) files in the `bounties` folder in this repo.
 
 (Open Pull Requests are NOT approved bounties - they are still pending review and approval.)
 
