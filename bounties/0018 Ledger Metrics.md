@@ -1,7 +1,7 @@
 ---
 ID: "0018"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0018
-Category: Technical Documentation
+Category: New Feature
 Status: Open
 Amount: $3,000
 ---
