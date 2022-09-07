@@ -1,8 +1,12 @@
-# JavaScript code samples
+---
+ID: "0031"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/0031
+Category: Technical Documentation
+Status: Open
+Amount: $2,000
+---
 
-**Category:** Technical Documentation
-
-**Amount:** $2,000
+# JavaScript Code Samples
 
 ## Overview
 

@@ -1,8 +1,12 @@
+---
+ID: "0018"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/0018
+Category: New Feature
+Status: Open
+Amount: $3,000
+---
+
 # Ledger Metrics
-
-**Category:** Technical Documentation
-
-**Proposed Amount:** $3,000
 
 ## Overview
 When viewing a particular ledger (e.g. [Ledger Page](https://livenet.xrpl.org/ledgers/69537171)) in addition to showing a table of transaction a collection of metrics for the ledger should be show.
@@ -17,9 +21,9 @@ The following metrics should be shown above the transaction table and accompanie
 	- Number of successful transactions
 	- Number of failed transactions (tec*)
 	- Breakdown of transactions by type (DEX, Payments, Account, NFT, XChain)
-	- A special call out (icon) if there are no tecINVARIANT_FAILED transactions
+	- A special call-out (icon) if there are no `tecINVARIANT_FAILED` transactions
 - Milestone 2 Stats
-	- Summaries of the amount of ledger objects by type (Accounts, Offers, Escrows, TrustLines, Paychannel, etc.)
+	- Summaries of the amount of [ledger objects by type](https://xrpl.org/ledger-object-types.html): AccountRoot (account), Offer, Escrow, RippleState (trust line), PayChannel, etc.
 	
 ### Proposed Visuals
 The new data should follow the design below.  It shows what it would look like with the current metrics.  The new metrics would use the same styling

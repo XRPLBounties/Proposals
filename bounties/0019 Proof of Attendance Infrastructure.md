@@ -1,12 +1,16 @@
+---
+ID: "0019"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/0019
+Category: New Feature
+Status: Open
+Amount: $6,000
+---
+
 # Proof of Attendance Infrastructure
-
-**Category:** New Feature/ Community Event Management Tool
-
-**Proposed Amount:** $6,000
 
 ## Overview
 
-Build a library to provide infrastructure that allows event organizers to mint and distribute Attendance NFTs on the XRP Ledger.
+Community Event Management Tool: Build a library to provide infrastructure that allows event organizers to mint and distribute Attendance NFTs on the XRP Ledger.
 
 ## Details
 
