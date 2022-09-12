@@ -23,10 +23,9 @@ Each bounty will describe a problem, what the work entails, and how much money w
 
 Bounty work is usually split into milestones, which divide the work into incremental features, each of which is worth a piece of the total bounty. The first milestone is often required, while the rest are valuable add-ons.
 
-If you see a bounty you like in the repo, feel free to get started!
+If you see a bounty you like in the repo, follow the link in the Markdown file to the bounty's [Discussion](https://github.com/XRPLBounties/Proposals/discussions) thread. Look to see if other developers are working on it. Then, comment to indicate your interest in solving the bounty.
 
-To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: 
-[https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+After completing the bounty, comment on the same discussion with a link to your open source submission.
 
 <br>
 
