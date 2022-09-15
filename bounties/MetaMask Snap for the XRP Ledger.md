@@ -1,5 +1,5 @@
 ---
-ID: 0042
+ID: "0042"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0042
 Category: Browser Extension
 Status: Open
