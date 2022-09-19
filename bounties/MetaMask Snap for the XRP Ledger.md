@@ -26,13 +26,9 @@ As an example, the Snap would be similar to [BitcoinSnap](https://github.com/Key
 | - | ----------- | ------- | ------------------------ |
 | 1 | Create Account | Implement a Snap that securely generates and stores a new keypair and displays the associated XRPL address to the user. Make it easy for users to copy the address to share or use in other apps. | $1,000 |
 | 2 | Send XRP | Enable users to send XRP. The Snap should sign and submit the transaction to a server of the user's choice. For convenience, users can select from one of the [well-known public servers](https://xrpl.org/public-servers.html). | $2,000 |
-| 3 | View Transaction History | Show transaction history in a human-readable UI. | $10,000 |
-| 4 | Set Trust Line | Enable users to [create or modify a trust line](https://xrpl.org/trustset.html). | $2,000 |
-| 5 | Sign Anything | Enable users to sign any transaction or message. | $3,000 |
-| 6 | Sign and Submit Transaction | Enable users to sign and submit any transaction. | $3,000 |
-| 7 | Dapp Integration | Offer APIs for dapps to interact with the Snap, with API documentation and snippets of example code. As a reference, see the [API to integrate BitcoinSnap into your dapp](https://github.com/KeystoneHQ/btcsnap/tree/master/packages/snap). | $8,000 |
-| 8 | Sample App | Build a sample app to showcase how to interact with the Dapp Integration milestone. | $5,000 |
-| 9 | View NFTs | Enable users to see their XLS-20 NFTs directly within MetaMask. | $5,000 |
-| 10 | Mint NFTs | Enable users to mint or sell a new NFT. | $7,000 |
-| 11 | Ethereum Feature Parity | Add features similar or comparable to those available when using MetaMask with Ethereum. | Up to $50,000 |
-| 12 | Xumm Feature Parity | Add features similar or comparable to those offered by [Xumm](https://xumm.app/). | Up to $50,000 |
+| 3 | Sign Anything | Enable users to sign any transaction or message. | $3,000 |
+| 4 | Sign and Submit Transaction | Enable users to sign and submit any transaction (including serialization). | $3,000 |
+| 5 | Send Requests | Enable users to submit any rippled- or Clio-supported RPC request. | $??? |
+| 5 | Dapp Integration | Offer APIs for dapps to interact with the Snap, with API documentation and snippets of example code. As a reference, see the [API to integrate BitcoinSnap into your dapp](https://github.com/KeystoneHQ/btcsnap/tree/master/packages/snap). | $8,000 |
+| 6 | Ethereum Feature Parity | Add features similar or comparable to those available when using MetaMask with Ethereum. | Up to $50,000 |
+| 7 | Sample App | Build a sample app to showcase how to interact with the Dapp Integration milestone. | $5,000 |
