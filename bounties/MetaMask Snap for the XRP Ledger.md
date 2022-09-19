@@ -29,6 +29,6 @@ As an example, the Snap would be similar to [BitcoinSnap](https://github.com/Key
 | 3 | Sign Anything | Enable users to sign any transaction or message. | $3,000 |
 | 4 | Sign and Submit Transaction | Enable users to sign and submit any transaction (including serialization). | $3,000 |
 | 5 | Send Requests | Enable users to submit any rippled- or Clio-supported RPC request. | $??? |
-| 5 | Dapp Integration | Offer APIs for dapps to interact with the Snap, with API documentation and snippets of example code. As a reference, see the [API to integrate BitcoinSnap into your dapp](https://github.com/KeystoneHQ/btcsnap/tree/master/packages/snap). | $8,000 |
-| 6 | Ethereum Feature Parity | Add features similar or comparable to those available when using MetaMask with Ethereum. | Up to $50,000 |
-| 7 | Sample App | Build a sample app to showcase how to interact with the Dapp Integration milestone. | $5,000 |
+| 6 | Documentation and Examples for Dapps | Enable easy [dapp](https://en.wikipedia.org/wiki/Decentralized_application) integrations: implement and document APIs for dapps to interact with the Snap, including example code. As a reference, see the [API to integrate BitcoinSnap into your dapp](https://github.com/KeystoneHQ/btcsnap/tree/master/packages/snap). | $8,000 |
+| 7 | Ethereum Feature Parity | Add features similar or comparable to those available when using MetaMask with Ethereum. While Snaps may not be able to use the normal MetaMask UI, you can implement support for tokens and advanced "smart transactors" by designing and building a custom UI. | Up to $50,000 |
+| 8 | Sample App | Build a sample app to showcase how to interact with the Dapp Integration milestone. | $5,000 |
