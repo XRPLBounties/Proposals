@@ -3,7 +3,7 @@ ID: "0042"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0042
 Category: Browser Extension
 Status: Open
-Amount: $100,000
+Amount: $75,000
 ---
 
 # MetaMask Snap for the XRP Ledger
