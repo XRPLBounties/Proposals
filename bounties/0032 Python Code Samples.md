@@ -31,6 +31,8 @@ https://xrpl.org/code-samples.html
 | 7 | [Tickets](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/use-tickets) | Create a Ticket and use it to send a transaction out of the usual Sequence order. | $1,000 |
 | 8 | [Use Checks](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/checks) | Create, cash, and cancel Checks for exact or flexible amounts. | $1,000 |
 
-A milestone is complete only after the relevant code sample has been approved, merged, and deployed onto XRPL.org.
+- A milestone is complete only after the relevant code sample has been approved, merged, and deployed onto XRPL.org.
+- All of these code samples must have feature parity with the existing equivalent code samples in other languages. 
+- They must also be well-documented to be a useful learning reference, not just working code which performs the task.
 
 **Ripple internal ID:** DGE-93
