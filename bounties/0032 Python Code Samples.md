@@ -20,16 +20,16 @@ https://xrpl.org/code-samples.html
 
 ## Milestones
 
-| # | Description | Details | Proposed Potential Award |
-| --- | --- | --- | --- |
-| 1 | ~~[Address Encoding](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/address_encoding)~~ | ~~Encode XRP Ledger addresses in base58. This sample can be pulled out of, or perhaps implemented within, an existing client library.~~ | ~~$500~~ COMPLETED |
-| 2 | [Escrows](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/escrow) | Create, finish, and cancel [Escrows](https://xrpl.org/escrow.html) using conditional or time-based release. | $1,000 |
-| 3 | [Freezes](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/freeze) | Freeze and unfreeze issued tokens, check freeze status, or give up the ability to freeze tokens. | $1,000 |
-| 4 | [Monitor Incoming Payments](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/monitor-payments-websocket) | Watch for incoming payments to an XRP Ledger address, _without_ using a client library. | $1,000 |
-| 5 | [Require Destination Tags](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/require-destination-tags) | Require incoming payments to specify a [Destination Tag](https://xrpl.org/source-and-destination-tags.html) so you know whom to credit. | $1,000 |
-| 6 | [Submit and Verify](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/submit-and-verify) | Submit a signed transaction blob and wait until it has a final result. | $1,000 |
-| 7 | [Tickets](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/use-tickets) | Create a Ticket and use it to send a transaction out of the usual Sequence order. | $1,000 |
-| 8 | [Use Checks](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/checks) | Create, cash, and cancel Checks for exact or flexible amounts. | $1,000 |
+| # | Description | Details | Proposed Potential Award | Completed? |
+| --- | --- | --- | --- | --- |
+| 1 | [Address Encoding](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/address_encoding) | Encode XRP Ledger addresses in base58. This sample can be pulled out of, or perhaps implemented within, an existing client library. | $500 | COMPLETED |
+| 2 | [Escrows](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/escrow) | Create, finish, and cancel [Escrows](https://xrpl.org/escrow.html) using conditional or time-based release. | $1,000 | OPEN |
+| 3 | [Freezes](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/freeze) | Freeze and unfreeze issued tokens, check freeze status, or give up the ability to freeze tokens. | $1,000 | OPEN |
+| 4 | [Monitor Incoming Payments](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/monitor-payments-websocket) | Watch for incoming payments to an XRP Ledger address, _without_ using a client library. | $1,000 | COMPLETED |
+| 5 | [Require Destination Tags](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/require-destination-tags) | Require incoming payments to specify a [Destination Tag](https://xrpl.org/source-and-destination-tags.html) so you know whom to credit. | $1,000 | COMPLETED |
+| 6 | [Submit and Verify](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/submit-and-verify) | Submit a signed transaction blob and wait until it has a final result. | $1,000 | COMPLETED |
+| 7 | [Tickets](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/use-tickets) | Create a Ticket and use it to send a transaction out of the usual Sequence order. | $1,000 | COMPLETED |
+| 8 | [Use Checks](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/checks) | Create, cash, and cancel Checks for exact or flexible amounts. | $1,000 | OPEN |
 
 When submitting a PR completing one of these milestones, please link to this markdown file for the bounty:
 https://github.com/XRPLBounties/Proposals/blob/main/bounties/0032%20Python%20Code%20Samples.md
