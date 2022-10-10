@@ -31,10 +31,10 @@ The new data should follow the design below.  It shows what it would look like w
 
 ## Milestones
 
-| # | Description | Details | Proposed Potential Award |
-| --- | --- | --- | --- |
-| 1 | Display transaction summary | The statistics for Milestone 1 listed above | $1,000 |
-| 2 | Add Object Counts | The statistics for Milestone 2 listed above | $2,000 |
+| # | Description | Details | Proposed Potential Award | Completed? |
+| --- | --- | --- | --- | --- |
+| 1 | Display transaction summary | The statistics for Milestone 1 listed above | $1,000 | COMPLETED |
+| 2 | Add Object Counts | The statistics for Milestone 2 listed above | $2,000 | OPEN |
 
 ## Helpful Links and Resources
 
