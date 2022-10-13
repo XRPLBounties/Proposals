@@ -33,6 +33,7 @@ Please split the bounty into smaller milestones with individual awards in the fo
 The first milestone should be the core functionality, while the rest can be useful add-ons.
 
 | # | High-Level Description | Details | Proposed Potential Award |
+| --- | --- | --- | --- |
 | 1 | ... | ... | $... |
 
 (The proposed amounts from milestones should add up to the amount listed at the top of the bounty proposal)
