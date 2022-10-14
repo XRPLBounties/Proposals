@@ -15,12 +15,6 @@ Recommend a total value amount for the bounty, in U.S. Dollars. The exact amount
 
 **Amount:** $
 
-<!--
-If there's a programming language used, propose a prefered programming language that suits best for this specific bounty.
--->
-
-**Proposed programming language:**
-
 ## Overview
 
 <!--
