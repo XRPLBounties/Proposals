@@ -20,10 +20,10 @@ https://xrpl.org/code-samples.html
 
 ## Milestones
 
-| # | Description | Details | Proposed Potential Award |
-| --- | --- | --- | --- |
-| 1 | [Cryptographic Key Derivation](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/key-derivation) | Derive secp256k1 or Ed25519 key pairs from seeds in any of the XRP Ledger's encodings and formats. This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 |
-| 2 | [Transaction Serialization](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/tx-serialization) |  This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 |
+| # | Description | Details | Proposed Potential Award | Completed? |
+| --- | --- | --- | --- | --- |
+| 1 | [Cryptographic Key Derivation](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/key-derivation) | Derive secp256k1 or Ed25519 key pairs from seeds in any of the XRP Ledger's encodings and formats. This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 | COMPLETED |
+| 2 | [Transaction Serialization](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/tx-serialization) |  This sample can be pulled out of, or perhaps implemented within, an existing client library. | $1,000 | OPEN |
 
 When creating a PR to add these code samples please include a link to this document: 
 https://github.com/XRPLBounties/Proposals/blob/main/bounties/0031%20JavaScript%20Code%20Samples.md
