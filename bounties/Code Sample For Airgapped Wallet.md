@@ -50,6 +50,7 @@ The first milestone should be the core functionality, while the rest can be usef
 | 3 | Transmit & Relay Transaction | **Efficiently** & **Securely** transfer a signed transaction blob from the airgapped machine and relay the Payment to a rippled node and verify Payment's validity  | $1,000 |
 | 4 | Tutorial & Descriptions & Diagrams (R&D) | Research and write a proper documentation on the code sample's directory and explain all the components, its purpose and how it all works together to form a reliable & secure way to store a keypair | $2,000 |
 
+**Requirement**: This project must be reviewed and merged into xrpl.org's repo under the code sample directory @ https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples
 
 The value of the proposal is determined by the amount of research and development put in place, researching & developing the code sample takes a considerable amount of time since the airgapped wallet's effectiveness is not determined by the code itself (to secure the keypair), it's the design and security practices behind the concept which gatekeeps the keypair without any way of compromising it.
 
