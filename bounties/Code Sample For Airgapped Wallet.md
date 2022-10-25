@@ -110,6 +110,6 @@ Ex.
 * Are there open source projects which can be used as a reference?
 * Are there particularly relevant documentation pages?
 -->
-
+- https://github.com/XRPLBounties/Proposals/discussions/47
 - https://en.wikipedia.org/wiki/Air_gap_%28networking%29
 - https://www.howtogeek.com/687792/the-ultimate-defense-what-is-an-air-gapped-computer/
