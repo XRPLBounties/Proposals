@@ -29,7 +29,7 @@ https://xrpl.org/code-samples.html
 | 5 | [Require Destination Tags](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/require-destination-tags) | Require incoming payments to specify a [Destination Tag](https://xrpl.org/source-and-destination-tags.html) so you know whom to credit. | $1,000 | COMPLETED |
 | 6 | [Submit and Verify](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/submit-and-verify) | Submit a signed transaction blob and wait until it has a final result. | $1,000 | COMPLETED |
 | 7 | [Tickets](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/use-tickets) | Create a Ticket and use it to send a transaction out of the usual Sequence order. | $1,000 | COMPLETED |
-| 8 | [Use Checks](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/checks) | Create, cash, and cancel Checks for exact or flexible amounts. | $1,000 | OPEN |
+| 8 | [Use Checks](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/checks) | Create, cash, and cancel Checks for exact or flexible amounts. | $1,000 | COMPLETED |
 
 When submitting a PR completing one of these milestones, please link to this markdown file for the bounty:
 https://github.com/XRPLBounties/Proposals/blob/main/bounties/0032%20Python%20Code%20Samples.md
