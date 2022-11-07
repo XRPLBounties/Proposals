@@ -3,7 +3,7 @@ ID: "0019"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0019
 Category: New Feature
 Status: Open
-Amount: $6,000
+Amount: $7,500
 ---
 
 # Proof of Attendance Infrastructure
