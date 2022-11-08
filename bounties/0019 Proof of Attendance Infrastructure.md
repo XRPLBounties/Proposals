@@ -32,5 +32,5 @@ Basic requirements:
 | 1   | Create API library for NFT Minting and distrubtion | Complete basic requirements mentioned above with good documentation and tests.                                                                 | $3,000                   |
 | 2   | Event attendees lookup                             | Add a way for people to look up wallets with the same event NFTs.                                                                              | $1,000                   |
 | 3   | Event NFT ownership verification                   | Add an API for people to verify the event NFT - using their signiture to prove that they are the owner of the account associated with the NFT. | $2,000                   |
-| 4  | Deployed no-code tool for non-technical event organizers                   | Add a frontend (preferably a form) with wallet integration (XUMM) for non-technical event organizers to mint and send event NFT's, the website should be deployed publicly | $1,500                   |
+| 4  | Deployed no-code tool for non-technical event organizers                   | Add a frontend (preferably a form) with wallet integration (XUMM) for non-technical event organizers to mint and send event NFT's, the website should be deployed publicly and deployment details should be included in the README | $1,500                   |
 
