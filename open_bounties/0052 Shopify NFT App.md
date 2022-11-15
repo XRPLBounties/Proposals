@@ -3,7 +3,7 @@ ID: "0052"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0052
 Category: eCommerce App
 Status: Open
-Amount: $10,000
+Amount: $15,000
 ---
 
 <!-- Please update this title -->
