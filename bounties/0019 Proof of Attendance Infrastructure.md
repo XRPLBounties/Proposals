@@ -3,7 +3,7 @@ ID: "0019"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0019
 Category: New Feature
 Status: Open
-Amount: $6,000
+Amount: $7,500
 ---
 
 # Proof of Attendance Infrastructure
@@ -22,8 +22,14 @@ See similar infrastructure built on Ethereum https://poap.xyz/#
 Basic requirements:
 
 1. Given a minter - able to mint NFTs for all attendees with the same metadata and artwork (artwork should be hosted somewhere that's not XRPL).
-   The NFT minted should include a memo/taxon field that include information about the event (date, location and description) and an artwork that represents the event.
+   The NFT minted should include a memo/taxon field that include information about the event (date, location and description) and an artwork that represents the event. The API should work on both testnet and mainnet. 
+   Additional Clarification: 
+   The preferred method of minting is organizer minting on the attendee's behalf when requested, see details here: https://xrpl.org/nftokenmint.html#issuing-on-behalf-of-another-account
+   The reasoning behind the decsion is that it is impractical for no-code organizers to sign hundreds (if not thousands) of minting request using XUMM if pre-minting is the preferrred method. However, feel free to include both as API routes, since it is very easy to do so programmatically. 
+
 2. Provide a gateway for attendees to collect the NFTs through their wallets or creating new wallets and distributing them securely.
+
+
 
 ## Milestones
 
@@ -32,3 +38,5 @@ Basic requirements:
 | 1   | Create API library for NFT Minting and distrubtion | Complete basic requirements mentioned above with good documentation and tests.                                                                 | $3,000                   |
 | 2   | Event attendees lookup                             | Add a way for people to look up wallets with the same event NFTs.                                                                              | $1,000                   |
 | 3   | Event NFT ownership verification                   | Add an API for people to verify the event NFT - using their signiture to prove that they are the owner of the account associated with the NFT. | $2,000                   |
+| 4  | Deployed no-code tool for non-technical event organizers                   | Add a frontend (preferably a form) with wallet integration (XUMM) for non-technical event organizers to mint and distribute event NFT's, the website should be deployed publicly and deployment details should be included in the README (this milestone prize is not covering minting fees for organizers) | $1,500                   |
+
