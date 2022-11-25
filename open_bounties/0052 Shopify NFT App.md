@@ -46,9 +46,24 @@ The first milestone should be the core functionality, while the rest can be usef
 
 | # | Description | Details | Proposed Potential Award |
 | --- | --- | --- | --- |
-|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. | $5,000 |
+|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 |
 |2| Launch | Submit and launch the app on the Shopify app store | $5,000 |
 |3| Adoption | Get 100+ installs | $5,000 |
+
+**Detailed requirements:**
+Merchant dashboard features
+- [ ] merchant XRPL account setup
+- [ ] create/view/delete XLS-20 NFT on XRPL
+  - Create campaign with properties  
+  - [ ] allow specification of start date, end date and redemption limits
+  - [ ] associate reward for NFT such as discount, BOGO, free product
+  - [ ] included products or collections
+  - [ ] selection for NFTs used in the campaign
+  - [ ] qualifying conditions and (ie. must have 3 specific NFTs)
+
+Merchant storefront features
+- [ ] display widget via app theme extension to connect wallet
+- [ ] apply promotion when NFT conditions are met by the wallet
 
 ## Helpful links/resources
 
