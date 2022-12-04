@@ -43,12 +43,12 @@ The first milestone should be the core functionality, while the rest can be usef
 -->
 
 
-| # | High-Level Description | Details | Proposed Potential Award |
-| --- | --- | --- | --- |
-| 1 | Keypair/Wallet management system | Generate an XRPL account and store it securely with a password feature built-in using a cryptography algorithm | $1,500 |
-| 2 | XRP Payments | Decrypt the previously stored keypair on the filesystem by password and sign a Payment transaction | $1,500 |
-| 3 | Transmit & Relay Transaction | **Efficiently** & **Securely** transfer a signed transaction blob from the airgapped machine and relay the Payment to a rippled node and verify Payment's validity  | $1,000 |
-| 4 | Tutorial & Descriptions & Diagrams (R&D) | Research and write a proper documentation on the code sample's directory and explain all the components, its purpose and how it all works together to form a reliable & secure way to store a keypair | $2,000 |
+| # | High-Level Description | Details | Proposed Potential Award | Open? |
+| --- | --- | --- | --- | --- |
+| 1 | Keypair/Wallet management system | Generate an XRPL account and store it securely with a password feature built-in using a cryptography algorithm | $1,500 | COMPLETED |
+| 2 | XRP Payments | Decrypt the previously stored keypair on the filesystem by password and sign a Payment transaction | $1,500 | COMPLETED |
+| 3 | Transmit & Relay Transaction | **Efficiently** & **Securely** transfer a signed transaction blob from the airgapped machine and relay the Payment to a rippled node and verify Payment's validity  | $1,000 | COMPLETED |
+| 4 | Tutorial & Descriptions & Diagrams (R&D) | Research and write a proper documentation on the code sample's directory and explain all the components, its purpose and how it all works together to form a reliable & secure way to store a keypair | $2,000 | COMPLETED |
 
 **Requirement**: This project must be reviewed and merged into xrpl.org's repo under the code sample directory @ https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples
 
