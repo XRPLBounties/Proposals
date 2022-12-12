@@ -25,8 +25,7 @@ Bounty work is usually split into milestones, which divide the work into increme
 
 If you see a bounty you like in the repo, feel free to get started!
 
-To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: 
-[https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+To indicate interest in a bounty, feel free to post in the corresponding discussion for it!
 
 <br>
 
@@ -87,7 +86,6 @@ If you see a bounty that you think is particularly important you can upvote it t
 ## Links
 
 - See existing bounties: https://github.com/XRPLBounties/Proposals (This page)
-- Indicate your interest in a bounty: [https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 - Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
 - Submit your work to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 
