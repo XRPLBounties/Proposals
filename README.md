@@ -34,12 +34,11 @@ To indicate interest in a bounty, self-test for basic eligibility, and get an em
 
 The following bounties are available for anyone to pick up:
 
-- [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0031%20JavaScript%20Code%20Samples.md)
-- [Python Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0032%20Python%20Code%20Samples.md)
-- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0018%20Ledger%20Metrics.md)
-- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0015%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
-- [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0014%20Unreal%20Engine%205%20Integration.md)
-- [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
+- [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples.md)
+- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0018%20Ledger%20Metrics.md)
+- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0015%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
+- [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
+- [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 
 <br>
 
@@ -86,7 +85,8 @@ If you see a bounty that you think is particularly important you can upvote it t
 
 ## Links
 
-- See existing bounties: https://github.com/XRPLBounties/Proposals (This page)
+- See existing open bounties: https://github.com/XRPLBounties/Proposals/open_bounties (This page)
+- See past/closed bounties: https://github.com/XRPLBounties/Proposals/closed_bounties (This page)
 - Indicate your interest in a bounty: [https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 - Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
 - Submit your work to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
