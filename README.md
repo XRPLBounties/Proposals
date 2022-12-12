@@ -84,8 +84,8 @@ If you see a bounty that you think is particularly important you can upvote it t
 
 ## Links
 
-- See existing open bounties: https://github.com/XRPLBounties/Proposals/open_bounties (This page)
-- See past/closed bounties: https://github.com/XRPLBounties/Proposals/closed_bounties (This page)
+- See existing open bounties: https://github.com/XRPLBounties/Proposals/tree/main/open_bounties (This page)
+- See past/closed bounties: https://github.com/XRPLBounties/Proposals/tree/main/closed_bounties (This page)
 - Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
 - Submit your work to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 
