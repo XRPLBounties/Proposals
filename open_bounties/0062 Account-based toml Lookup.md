@@ -20,7 +20,7 @@ $2,500
 
 ## Overview
 
-The xrp-ledger.toml checker on XRPL.org (https://xrpl.org/xrp-ledger-toml-checker.html) is a handy tool for looking up what accounts are claimed by a specific domain (including domain verification), but it could be convenient to be able to do it the other way around and check to see if an account really is claimed by the domain it has set in its Domain field.
+The [xrp-ledger.toml checker on XRPL.org](https://xrpl.org/xrp-ledger-toml-checker.html) is a handy tool for looking up what accounts are claimed by a specific domain ([including domain verification](https://xrpl.org/xrp-ledger-toml.html#domain-verification)), but it could be convenient to be able to do it the other way around and check to see if an account really is claimed by the domain it has set in its Domain field.
 
 So in addition to being able to put in a domain and verify the toml from there, you could put in an account to verify that account's domain: if it has a Domain field, you look up to see if that domain serves a toml file and if that toml claims ownership of the account.
 
