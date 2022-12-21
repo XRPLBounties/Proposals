@@ -57,6 +57,12 @@ Be aware that in order to validate that you are eligible to receive payment, you
 
 If you see a problem that may be great for someone in the community to tackle, please propose it!
 
+In general, good bounties should be:
+
+1. Immediately useful in some way.
+2. Technically focused.
+3. Doable by a single person just by reading the post.
+
 The easiest way to get started with proposing a new bounty idea is to create a new [Discussion](https://github.com/XRPLBounties/Proposals/discussions) topic for your idea. That way you can see what other community members think, and have some space to think through some potential solutions.
 
 Before you post though, make sure to do a cursory search to see if the idea has already been proposed! <br>
