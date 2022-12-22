@@ -1,5 +1,5 @@
 ---
-ID: "77"
+ID: "0077"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/77
 Category: Technical Documentation
 Status: Open
