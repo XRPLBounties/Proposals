@@ -10,7 +10,7 @@ Amount: $8250
 
 ## Overview
 
-Currently, our JavaScript documentations has [code snippets](https://github.com/XRPLF/xrpl.js/tree/main/packages/xrpl/snippets/src) and [code samples](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) for some common usecases. However, there needs to be more examples to capture common tasks that users would want the library to do, and fixes to outdated or misconfigured snippets. Developers would benefit from additional relevant, high quality, well-documented examples in JavaScript.
+Currently, our JavaScript documentations have [code snippets](https://github.com/XRPLF/xrpl.js/tree/main/packages/xrpl/snippets/src) and [code samples](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) for some common usecases. However, there needs to be more examples to capture common tasks that users would want the library to do, and fixes to outdated or misconfigured snippets. Developers would benefit from additional relevant, high quality, well-documented examples in JavaScript.
 
 ## Details
 
