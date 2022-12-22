@@ -1,6 +1,6 @@
 ---
-ID:
-Discussion:
+ID: 0079
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/79
 Category: Technical Documentation
 Status: Open
 Amount: $5500
