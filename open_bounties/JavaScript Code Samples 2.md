@@ -1,9 +1,9 @@
 ---
-ID:
-Discussion:
+ID: "77"
+Discussion: https://github.com/XRPLBounties/Proposals/discussions/77
 Category: Technical Documentation
 Status: Open
-Amount:
+Amount: $8250
 ---
 
 # JavaScript Code Samples 2
