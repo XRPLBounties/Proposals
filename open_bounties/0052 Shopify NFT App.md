@@ -53,19 +53,20 @@ The first milestone should be the core functionality, while the rest can be usef
 |4| Education (optional) | Open source repo for a Shopify app that utilizes XLS-20 NFTs. This can be a barebones version of your app or an entirely different idea | $2,000 |
 
 **Detailed requirements:**
+
 Merchant dashboard features
 - [ ] merchant XRPL account setup
 - [ ] create/view/delete XLS-20 NFT on XRPL
-  - Create campaign with properties  
+  - Create a [token-gated campaign](https://www.shopify.com/ca/retail/token-gating) with properties below:  
   - [ ] allow specification of start date, end date and redemption limits
-  - [ ] associate reward for NFT such as discount, BOGO, free product
-  - [ ] included products or collections to which the promo applies
-  - [ ] selection for NFTs used in the campaign
-  - [ ] qualifying conditions and (ie. must have 3 specific NFTs)
+  - [ ] selection for NFTs used in the campaign to act as the gate; as the merchant will likely be minting NFTs for other purposes, we want to allow the merchant to select which specific NFTs will be used for this campaign
+  - [ ] associate reward/promo for NFT(s) such as discount, BOGO and/or free product
+  - [ ] selection of included products or collections to which the promo applies, as the merchant will likely have products they don't want discounted
+  - [ ] specific qualifying conditions (ie. must have 3 specific NFTs); some products might be special and require 2 or more NFTs to unlock promo
 
 Merchant storefront features
 - [ ] display widget via [Shopify app theme extension](https://shopify.dev/apps/online-store/theme-app-extensions) to connect wallet
-- [ ] apply promotion when NFT conditions are met by the wallet
+- [ ] apply promotion to displayed products when NFT conditions are met by the wallet
 
 ## Helpful links/resources
 
