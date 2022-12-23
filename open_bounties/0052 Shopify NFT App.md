@@ -3,7 +3,7 @@ ID: "0052"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0052
 Category: eCommerce App
 Status: Open
-Amount: $15,000
+Amount: $17,000
 ---
 
 <!-- Please update this title -->
@@ -23,14 +23,15 @@ Questions you should answer here:
 
 There are over 2.5 million merchants that use the Shopify platform. All of which use marketing in some form or another to drive sales. 
 
-The goal of this app will be to give merchants a way to increase engagement through the use of NFTs. The actual marketing method is left up to the developer and the only requirement for this bounty is to use NFTs to incentivize customers to make further purchases or to increase engagement with the brand.
+The goal of this app will be to give merchants a way to increase engagement through the use of NFTs (XLS-20). The actual marketing method is left up to the developer and the only requirement for this bounty is to use NFTs to incentivize customers to make further purchases or to increase engagement with the brand.
 
 Example:
 A customer would claim a random NFT via a QR code on their physical receipt or a link on their order confirmation page. Then upon collecting a certain set of NFT's that customer would trade them in for a discount or a free product.
 
 Such an app would allow merchants to use NFTs in their business, strengthen their communities and explore what Web3 has to offer. It would also expose them to  the speed and efficiency of using XRPL.
 
-
+## Awards Available
+This bounty can have up to 3 Shopify apps that help merchants utilize XLS-20.
 
 ## Milestones
 
@@ -47,8 +48,9 @@ The first milestone should be the core functionality, while the rest can be usef
 | # | Description | Details | Proposed Potential Award |
 | --- | --- | --- | --- |
 |1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 |
-|2| Launch | Submit and launch the app on the Shopify app store | $5,000 |
+|2| Launch | Submit and [launch the app on the Shopify app store](https://shopify.dev/apps/store/review) | $5,000 |
 |3| Adoption | Get 100+ installs | $5,000 |
+|4| Education (optional) | Open source repo for a Shopify app that utilizes XLS-20 NFTs. This can be a barebones version of your app or an entirely different idea | $2,000 |
 
 **Detailed requirements:**
 Merchant dashboard features
@@ -57,12 +59,12 @@ Merchant dashboard features
   - Create campaign with properties  
   - [ ] allow specification of start date, end date and redemption limits
   - [ ] associate reward for NFT such as discount, BOGO, free product
-  - [ ] included products or collections
+  - [ ] included products or collections to which the promo applies
   - [ ] selection for NFTs used in the campaign
   - [ ] qualifying conditions and (ie. must have 3 specific NFTs)
 
 Merchant storefront features
-- [ ] display widget via app theme extension to connect wallet
+- [ ] display widget via [Shopify app theme extension](https://shopify.dev/apps/online-store/theme-app-extensions) to connect wallet
 - [ ] apply promotion when NFT conditions are met by the wallet
 
 ## Helpful links/resources
@@ -79,3 +81,6 @@ Ex.
 - https://shopify.dev/apps
 - https://help.shopify.com/en/manual/products/digital-service-product/nfts
 - https://help.shopify.com/en/manual/products/digital-service-product/nfts/blockchain-app-partners
+
+## Helpful examples
+[novel.com/](https://www.novel.com/)
