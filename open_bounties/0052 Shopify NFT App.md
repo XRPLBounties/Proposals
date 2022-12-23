@@ -85,3 +85,4 @@ Ex.
 
 ## Helpful examples
 [novel.com/](https://www.novel.com/)
+![TokenGateExample](https://user-images.githubusercontent.com/20135683/209374864-df336d9b-1582-4519-87fa-7e75297adbef.gif)
