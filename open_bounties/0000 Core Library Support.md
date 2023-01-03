@@ -6,7 +6,7 @@ Status: Open
 Amount: Variable
 ---
 
-# Xrpl.js Open Bounties
+# Core Library Support
 
 **Category: Open Source Tooling**
 
@@ -26,13 +26,16 @@ Questions you should answer here:
 3. What are the requirements for this solution?
 -->
 
-If an open issue in xrpl.js has the tag "Approved Bounty", it is eligible to be completed for the specified dollar amount.
+For core XRPL libraries such as xrpl.js, xrpl-py, rippled, and the explorer, there may be issues which make for good bounties.
+
+Those issues should also be tagged with "Approved Bounty" once they are listed here.
+
 These tasks generally take at least a day of coding, are reasonable to build on your own, and are a way to learn about
 a specific piece of the XRPL ecosystem.
 
-In order to complete the bounty, your PR must include unit tests, be well documented, and be merged in to the xrpl.js repository.
+In order to complete the bounty, your PR must include unit tests, be well documented, and be merged in to corresponding repository.
 
-This is a purpetual bounty - so as new issues are discovered, more may be turned into bounties if they seem to be a good fit.
+This is a purpetual bounty - so as new issues are discovered we will continue to add milestones here.
 
 ## Milestones
 
@@ -57,6 +60,4 @@ Ex.
 * Are there particularly relevant documentation pages?
 -->
 
-In order to learn how to contribute to xrpl.js, you should read:
-
-- The [CONTRIBUTING.md](https://github.com/XRPLF/xrpl.js/blob/main/CONTRIBUTING.md) file (which explains how to run tests, and install dev dependencies)
+Before contributing, make sure to check the CONTRIBUTING.md file in each repository. Ex. This is the [CONTRIBUTING.md](https://github.com/XRPLF/xrpl.js/blob/main/CONTRIBUTING.md) file for xrpl.js which explains how to run tests, and install dev dependencies
