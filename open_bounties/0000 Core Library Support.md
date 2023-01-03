@@ -33,7 +33,7 @@ Those issues should also be tagged with "Approved Bounty" once they are listed h
 These tasks generally take at least a day of coding, are reasonable to build on your own, and are a way to learn about
 a specific piece of the XRPL ecosystem.
 
-In order to complete the bounty, your PR must include unit tests, be well documented, and be merged in to corresponding repository.
+In order to complete the bounty, your PR must include unit tests, be well documented, update the CHANGELOG.md / HISTORY.md file and be merged in to the corresponding repository.
 
 This is a purpetual bounty - so as new issues are discovered we will continue to add milestones here.
 
