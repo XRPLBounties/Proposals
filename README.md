@@ -59,7 +59,7 @@ If you see a problem that may be great for someone in the community to tackle, p
 
 In general, good bounties should be:
 
-1. Immediately useful in some way.
+1. Immediately useful in some way to the XRPL community.
 2. Technically focused.
 3. Doable by a single person just by reading the post.
 
