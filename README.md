@@ -41,6 +41,25 @@ The following bounties are available for anyone to pick up:
 
 <br>
 
+# Bounty Submission
+
+## Outside of [XRPLF](https://github.com/XRPLF))
+
+To submit your bounty work(finished or work in progress) for review, you will share your submission by opening a PR to new open source repo(s) under the [XRPL Bounties github organization](https://github.com/XRPLBounties).
+
+This will make it easier for reviewers and submitters to collaborate (comment on specific line of codes and request changes). It will also increase the publicity of your work, as the community will be able to find everything under XRPL Bounties.
+
+### Instructions
+Reply to the corresponding discussion thread with a link to your work-in-progress repo. If you've made enough progress for us to start requesting revisions, we will create an open source repo (under the XRPLBounties github org) for you to open PR(s) against.
+The repo's default branch will start off empty, so that your PR will include your entire submission. This allows reviewers to easily comment directly on specific lines of code and collaborate with you more easily with PR reviews.
+<br>
+
+## [XRPLF](https://github.com/XRPLF)) repos
+To submit your bounty work for [XRPLF](https://github.com/XRPLF)) repos, please follow the corresponding repo's CONTRIBUTING.md's instructions to create a PR against the default branch. 
+
+
+
+
 # Claim a Bounty
 
 **Use this form to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)**
@@ -52,6 +71,8 @@ Keep in mind that the first milestone is usually required in order to claim the 
 Be aware that in order to validate that you are eligible to receive payment, you will need to share your real name when trying to claim a bounty.
 
 <br>
+
+
 
 # Propose New Bounty Ideas
 
