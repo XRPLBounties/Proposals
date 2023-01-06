@@ -55,7 +55,7 @@ The repo's default branch will start off empty, so that your PR will include you
 <br>
 
 ## [XRPLF](https://github.com/XRPLF) repos
-To submit your bounty work for [XRPLF](https://github.com/XRPLF)) repos, please follow the corresponding repo's CONTRIBUTING.md's instructions to create a PR against the default branch. 
+To submit your bounty work for [XRPLF](https://github.com/XRPLF) repos, please follow the corresponding repo's CONTRIBUTING.md's instructions to create a PR against the default branch. 
 
 
 
