@@ -43,11 +43,11 @@ The following bounties are available for anyone to pick up:
 
 # Bounty Submission
 
-## Outside of [XRPLF](https://github.com/XRPLF)
+## Contributing to an existing open source project
 
-To submit your bounty work(finished or work in progress) for review, you will share your submission by opening a PR to new open source repo(s) under the [XRPL Bounties github organization](https://github.com/XRPLBounties).
+To submit your bounty work for review (finished or work in progress), you must open a Pull Request against the corresponding bounties repository. This should be linked from the bounty, and can also be found by searching through the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 
-This will make it easier for reviewers and submitters to collaborate (comment on specific line of codes and request changes). It will also increase the publicity of your work, as the community will be able to find everything under XRPL Bounties.
+This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work as the community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 
 ### Instructions
 Please find the corresponding repo under https://github.com/XRPLBounties (the repo link will be posted under the discussion thread as well) and create a PR against the default branch. The repo's default branch will start off empty, so that your PR will include your entire submission. This allows reviewers to easily comment directly on specific lines of code and collaborate with you more easily with PR reviews.
