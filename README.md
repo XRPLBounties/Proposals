@@ -50,8 +50,8 @@ To submit your bounty work(finished or work in progress) for review, you will sh
 This will make it easier for reviewers and submitters to collaborate (comment on specific line of codes and request changes). It will also increase the publicity of your work, as the community will be able to find everything under XRPL Bounties.
 
 ### Instructions
-Reply to the corresponding discussion thread with a link to your work-in-progress repo. If you've made enough progress for us to start requesting revisions, we will create an open source repo (under the XRPLBounties github org) for you to open PR(s) against.
-The repo's default branch will start off empty, so that your PR will include your entire submission. This allows reviewers to easily comment directly on specific lines of code and collaborate with you more easily with PR reviews.
+Please find the corresponding repo under https://github.com/XRPLBounties (the repo link will be posted under the discussion thread as well) and create a PR against the default branch. The repo's default branch will start off empty, so that your PR will include your entire submission. This allows reviewers to easily comment directly on specific lines of code and collaborate with you more easily with PR reviews.
+
 <br>
 
 ## [XRPLF](https://github.com/XRPLF) repos
