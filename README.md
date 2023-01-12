@@ -38,9 +38,27 @@ The following bounties are available for anyone to pick up:
 - [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0015%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
+- [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
 - [Account-based toml lookup](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0062%20Account-based%20toml%20Lookup.md)
 
+
 <br>
+
+# Bounty Submission
+
+## Contributing to existing open source projects
+To submit your bounty work to an existing open source repository (e.g. for contributions to [xrpl.org](https://github.com/XRPLF/xrpl-dev-portal)), please follow the corresponding repo's `CONTRIBUTING.md` instructions to create a pull request for maintainers to review.
+
+
+## Contributing to new bounty projects (open source)
+
+To submit your bounty work for review (whether finished or a work-in-progress), you must open a Pull Request against the corresponding `XRPLBounties` repository. This should be linked from the bounty, and can also be found by searching the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
+
+This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work. The community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
+<br>
+
+
+
 
 # Claim a Bounty
 
@@ -55,6 +73,8 @@ Be aware that in order to validate that you are eligible to receive payment, you
 After submitting a bounty claim, please wait up to 5 business days for a response, expect emails to come from info@xrplbounties.org (they may go to spam).
 
 <br>
+
+
 
 # Propose New Bounty Ideas
 
