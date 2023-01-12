@@ -52,7 +52,7 @@ To submit your bounty work to an existing open source repository (e.g. for contr
 
 To submit your bounty work for review (whether finished or a work-in-progress), you must open a Pull Request against the corresponding `XRPLBounties` repository. This should be linked from the bounty, and can also be found by searching the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 
-This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work as the community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
+This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work. The community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 <br>
 
 
