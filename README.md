@@ -48,7 +48,7 @@ The following bounties are available for anyone to pick up:
 To submit your bounty work to an existing open source repository (e.g. for contributions to [xrpl.org](https://github.com/XRPLF/xrpl-dev-portal)), please follow the corresponding repo's `CONTRIBUTING.md` instructions to create a pull request for maintainers to review.
 
 
-## Contributing to new bounty projects (open-source)
+## Contributing to new bounty projects (open source)
 
 To submit your bounty work for review (finished or work in progress), you must open a Pull Request against the corresponding bounties repository. This should be linked from the bounty, and can also be found by searching through the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 
