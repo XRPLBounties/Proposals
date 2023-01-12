@@ -39,6 +39,8 @@ The following bounties are available for anyone to pick up:
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
+- [Account-based toml lookup](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0062%20Account-based%20toml%20Lookup.md)
+
 
 <br>
 
@@ -68,6 +70,8 @@ Keep in mind that the first milestone is usually required in order to claim the 
 
 Be aware that in order to validate that you are eligible to receive payment, you will need to share your real name when trying to claim a bounty.
 
+After submitting a bounty claim, please wait up to 5 business days for a response, expect emails to come from info@xrplbounties.org (they may go to spam).
+
 <br>
 
 
@@ -75,6 +79,12 @@ Be aware that in order to validate that you are eligible to receive payment, you
 # Propose New Bounty Ideas
 
 If you see a problem that may be great for someone in the community to tackle, please propose it!
+
+In general, good bounties should be:
+
+1. Immediately useful in some way to the XRPL community.
+2. Technically focused.
+3. Doable by a single person just by reading the post.
 
 The easiest way to get started with proposing a new bounty idea is to create a new [Discussion](https://github.com/XRPLBounties/Proposals/discussions) topic for your idea. That way you can see what other community members think, and have some space to think through some potential solutions.
 
