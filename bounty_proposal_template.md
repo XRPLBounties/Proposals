@@ -7,6 +7,11 @@ Please add a high level category of work.
 Ex. Game Development, Open Source Tooling, Etc.
 -->
 
+<!--
+Please include this line to ensure that no work is started prior to merging and budget approval
+-->
+This will not be merged until we receive budget approval even if we get 3+ technical approvals. Once merged, this bounty is ready to be worked on.
+
 **Category:**
 
 <!--
