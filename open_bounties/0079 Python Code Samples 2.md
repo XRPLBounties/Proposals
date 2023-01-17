@@ -8,6 +8,8 @@ Amount: $5,000
 
 # Python Code Samples 2
 
+## This will not be merged until we receive budget approval even if we get 3+ technical approvals. Once merged, this bounty is ready to be worked on, please hold off starting work till merging.##
+
 ## Overview
 
 Currently, our Python documentations have [code snippets](https://github.com/XRPLF/xrpl-py/tree/master/snippets) and [code samples](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples) for some common usecases. However, there needs to be more examples to capture common tasks that users would want the library to do. Developers would benefit from additional relevant, high quality, well-documented examples in Python.
