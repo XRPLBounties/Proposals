@@ -8,7 +8,7 @@ Amount: $5,000
 
 # Python Code Samples 2
 
-## This will not be merged until we receive budget approval even if we get 3+ technical approvals. Once merged, this bounty is ready to be worked on, please hold off starting work till merging.##
+## This will not be merged until we receive budget approval even if we get 3+ technical approvals. Once merged, this bounty is ready to be worked on, please hold off starting work till merging. ##
 
 ## Overview
 
