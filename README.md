@@ -115,12 +115,12 @@ If you see a bounty that you think is particularly important you can upvote it t
 XRPL Bounties would like to express our sincere gratitude to all of the contributors who have helped to improve the XRPL ecosystem through their participation in bounties. Your hard work and dedication are highly valued and appreicated. 
 Contributor list (No Particular Order):
 - [kasiimh1](https://github.com/kasiimh1)
-- [wojake] (https://github.com/wojake)
+- [wojake](https://github.com/wojake)
 - [ObiajuluM](https://github.com/ObiajuluM)
 - [ripci504](https://github.com/ripci504)
 - [YossiBenAri](https://github.com/YossiBenAri)
 - [AlexanderBuzz](https://github.com/AlexanderBuzz)
-- [TusharPardhe] (https://github.com/TusharPardhe)
+- [TusharPardhe](https://github.com/TusharPardhe)
 - [golobitch](https://github.com/golobitch)
 
 
