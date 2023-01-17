@@ -113,7 +113,7 @@ If you see a bounty that you think is particularly important you can upvote it t
 
 # Thanks For Contributing
 XRPL Bounties would like to express our sincere gratitude to all of the contributors who have helped to improve the XRPL ecosystem through their participation in bounties. Your hard work and dedication are highly valued and appreicated. 
-Contributor list (No Particular Order):
+## Contributor list (No Particular Order):
 - [kasiimh1](https://github.com/kasiimh1)
 - [wojake](https://github.com/wojake)
 - [ObiajuluM](https://github.com/ObiajuluM)
