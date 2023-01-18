@@ -10,7 +10,7 @@ Ex. Game Development, Open Source Tooling, Etc.
 <!--
 Please include this line to ensure that no work is started prior to merging and budget approval
 -->
-This will not be merged until we receive budget approval even if we get 3+ technical approvals. Once merged, this bounty is ready to be worked on.
+Bounties require 3+ technical approvals _and_ budget approval. Creating a PR and having it have 3+ ✅s doesn't mean that it is fully approved. The bounty is only ready to be worked on once the PR has been merged.
 
 **Category:**
 
