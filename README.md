@@ -18,6 +18,7 @@ All while paying people for the contributions they make. 💰
 Approved bounties can be found above as `.md` (Markdown) files in the `bounties` folder in this repo.
 
 (Open Pull Requests are NOT approved bounties - they are still pending review and approval.)
+**Please hold off on starting any work for bounty proposals until they have been officially merged, as some bounty PRs might not receive financial approval. There are no bounty funds available for any proposal PR that has not been merged.**
 
 Each bounty will describe a problem, what the work entails, and how much money will be awarded on completion.
 
