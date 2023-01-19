@@ -37,9 +37,7 @@ The following bounties are available for anyone to pick up:
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
-- [Account-based toml lookup](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0062%20Account-based%20toml%20Lookup.md)
-
-
+- [Python Code Sample 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0079%20Python%20Code%20Samples%202.md)
 <br>
 
 # Bounty Submission
