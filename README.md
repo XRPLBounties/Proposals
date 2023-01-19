@@ -34,7 +34,6 @@ To indicate interest in a bounty, feel free to post in the corresponding discuss
 The following bounties are available for anyone to pick up:
 
 - [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples.md)
-- [Ledger Metrics](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0018%20Ledger%20Metrics.md)
 - [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0015%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
