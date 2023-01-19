@@ -10,7 +10,7 @@ Ex. Game Development, Open Source Tooling, Etc.
 <!--
 Please include this line to ensure that no work is started prior to merging and budget approval
 -->
-Bounties require 3+ technical approvals _and_ budget approval. Creating a PR and having it have 3+ ✅s doesn't mean that it is fully approved. The bounty is only ready to be worked on once the PR has been merged.
+Bounty proposals require 3+ technical approvals _and_ budget approval before they are available to be worked on. A proposal PR with 3+ ✅s is not fully approved if it has not been merged. The bounty is only ready to be worked on after the PR has been merged.
 
 **Category:**
 
