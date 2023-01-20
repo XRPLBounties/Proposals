@@ -18,6 +18,7 @@ All while paying people for the contributions they make. 💰
 Approved bounties can be found above as `.md` (Markdown) files in the `bounties` folder in this repo.
 
 (Open Pull Requests are NOT approved bounties - they are still pending review and approval.)
+**Please hold off on starting any work for bounty proposals until they have been officially merged, as some bounty PRs might not receive financial approval. There are no bounty funds available for any proposal PR that has not been merged.**
 
 Each bounty will describe a problem, what the work entails, and how much money will be awarded on completion.
 
@@ -25,8 +26,7 @@ Bounty work is usually split into milestones, which divide the work into increme
 
 If you see a bounty you like in the repo, feel free to get started!
 
-To indicate interest in a bounty, self-test for basic eligibility, and get an email if someone else completes it, please fill out this form: 
-[https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+To indicate interest in a bounty, feel free to post in the corresponding discussion for it!
 
 <br>
 
@@ -38,8 +38,25 @@ The following bounties are available for anyone to pick up:
 - [JavaScript Code Samples 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples%2.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
-
+- [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
+- [Python Code Sample 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0079%20Python%20Code%20Samples%202.md)
 <br>
+
+# Bounty Submission
+
+## Contributing to existing open source projects
+To submit your bounty work to an existing open source repository (e.g. for contributions to [xrpl.org](https://github.com/XRPLF/xrpl-dev-portal)), please follow the corresponding repo's `CONTRIBUTING.md` instructions to create a pull request for maintainers to review.
+
+
+## Contributing to new bounty projects (open source)
+
+To submit your bounty work for review (whether finished or a work-in-progress), you must open a Pull Request against the corresponding `XRPLBounties` repository. This should be linked from the bounty, and can also be found by searching the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
+
+This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work. The community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
+<br>
+
+
+
 
 # Claim a Bounty
 
@@ -51,11 +68,21 @@ Keep in mind that the first milestone is usually required in order to claim the 
 
 Be aware that in order to validate that you are eligible to receive payment, you will need to share your real name when trying to claim a bounty.
 
+After submitting a bounty claim, please wait up to 5 business days for a response, expect emails to come from info@xrplbounties.org (they may go to spam).
+
 <br>
+
+
 
 # Propose New Bounty Ideas
 
 If you see a problem that may be great for someone in the community to tackle, please propose it!
+
+In general, good bounties should be:
+
+1. Immediately useful in some way to the XRPL community.
+2. Technically focused.
+3. Doable by a single person just by reading the post.
 
 The easiest way to get started with proposing a new bounty idea is to create a new [Discussion](https://github.com/XRPLBounties/Proposals/discussions) topic for your idea. That way you can see what other community members think, and have some space to think through some potential solutions.
 
@@ -84,9 +111,8 @@ If you see a bounty that you think is particularly important you can upvote it t
 
 ## Links
 
-- See existing open bounties: https://github.com/XRPLBounties/Proposals/open_bounties (This page)
-- See past/closed bounties: https://github.com/XRPLBounties/Proposals/closed_bounties (This page)
-- Indicate your interest in a bounty: [https://xrpl.typeform.com/bounty-interest](https://xrpl.typeform.com/bounty-interest?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
+- See existing open bounties: https://github.com/XRPLBounties/Proposals/tree/main/open_bounties (This page)
+- See past/closed bounties: https://github.com/XRPLBounties/Proposals/tree/main/closed_bounties (This page)
 - Read the terms and conditions: [terms_and_conditions.txt](terms_and_conditions.txt)
 - Submit your work to claim a bounty: [https://xrpl.typeform.com/xrpl-bounties](https://xrpl.typeform.com/xrpl-bounties?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx)
 

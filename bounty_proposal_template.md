@@ -7,6 +7,11 @@ Please add a high level category of work.
 Ex. Game Development, Open Source Tooling, Etc.
 -->
 
+<!--
+Please include this line to ensure that no work is started prior to merging and budget approval
+-->
+Bounty proposals require 3+ technical approvals _and_ budget approval before they are available to be worked on. A proposal PR with 3+ ✅s is not fully approved if it has not been merged. The bounty is only ready to be worked on after the PR has been merged.
+
 **Category:**
 
 <!--
