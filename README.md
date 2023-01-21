@@ -112,7 +112,7 @@ If you see a bounty that you think is particularly important you can upvote it t
 <br>
 
 # Thanks For Contributing
-XRPL Bounties would like to express our sincere gratitude to all of the contributors who have helped to improve the XRPL ecosystem through their participation in bounties. Your hard work and dedication are highly valued and appreicated. 
+XRPL Bounties expresses sincere gratitude to all of the contributors who help to improve the XRP Ledger and related projects. Your hard work and dedication are highly valued and appreciated. 
 ## Contributor list (In Alphabetical Order):
 - [AlexanderBuzz](https://github.com/AlexanderBuzz)
 - [golobitch](https://github.com/golobitch)
