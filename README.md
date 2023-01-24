@@ -18,6 +18,7 @@ All while paying people for the contributions they make. 💰
 Approved bounties can be found above as `.md` (Markdown) files in the `bounties` folder in this repo.
 
 (Open Pull Requests are NOT approved bounties - they are still pending review and approval.)
+**Please hold off on starting any work for bounty proposals until they have been officially merged, as some bounty PRs might not receive financial approval. There are no bounty funds available for any proposal PR that has not been merged.**
 
 Each bounty will describe a problem, what the work entails, and how much money will be awarded on completion.
 
@@ -34,13 +35,11 @@ To indicate interest in a bounty, feel free to post in the corresponding discuss
 The following bounties are available for anyone to pick up:
 
 - [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples.md)
-- [Code-Plugin for Unity Game Engine](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0015%20Code-Plugin%20for%20Unity%20Game%20Engine.md)
+- [JavaScript Code Samples 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples%2.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
-- [Account-based toml lookup](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0062%20Account-based%20toml%20Lookup.md)
-
-
+- [Python Code Sample 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0079%20Python%20Code%20Samples%202.md)
 <br>
 
 # Bounty Submission
@@ -109,6 +108,20 @@ If you see a bounty that you think is particularly important you can upvote it t
 **Hopefully by working together we can build a stronger ecosystem!**
 
 <br>
+
+# Thanks For Contributing
+XRPL Bounties expresses sincere gratitude to all of the contributors who help to improve the XRP Ledger and related projects. Your hard work and dedication are highly valued and appreciated. 
+## Contributor List (In Alphabetical Order):
+- [AlexanderBuzz](https://github.com/AlexanderBuzz)
+- [golobitch](https://github.com/golobitch)
+- [kasiimh1](https://github.com/kasiimh1)
+- [ObiajuluM](https://github.com/ObiajuluM)
+- [ripci504](https://github.com/ripci504)
+- [TusharPardhe](https://github.com/TusharPardhe)
+- [wojake](https://github.com/wojake)
+- [YossiBenAri](https://github.com/YossiBenAri)
+
+
 
 ## Links
 
