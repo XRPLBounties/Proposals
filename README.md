@@ -40,6 +40,7 @@ The following bounties are available for anyone to pick up:
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
 - [Python Code Sample 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0079%20Python%20Code%20Samples%202.md)
+- [Interactive Tutorial for Sending An Issued Token Payment.md](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0092%20Interactive%20Tutorial%20for%20Sending%20An%20Issued%20Token%20Payment.md)
 <br>
 
 # Bounty Submission
