@@ -30,6 +30,7 @@ Build an interactive tutorial for sending a cross-currency payment on xrpl.org, 
 ## Milestones
 
 | # | High-Level Description | Details | Proposed Potential Award |
+| --- | --- | --- | --- |
 | 1 | Code Samples | Finish all the bullet points listed in requirement #1 - code samples  | $1000|
 | 2 | Interactive tutorials | Make the code samples interactive | $1000|
 
