@@ -2,7 +2,7 @@
 ID: "0031"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/0031
 Category: Technical Documentation
-Status: Open
+Status: CLOSED
 Amount: $2,000
 ---
 
