@@ -33,4 +33,4 @@ Build a tutorial for sending a cross-currency payment on xrpl.org, reference iss
 
 ## Helpful links/resources
 Reference Doc: https://xrpl.org/cross-currency-payments.html#cross-currency-payments
-Xrpl.org Issue Ticket: https://github.com/XRPLF/xrpl-dev-portal/issues/1198
+XRPL.org Original Issue: https://github.com/XRPLF/xrpl-dev-portal/issues/1198
