@@ -34,20 +34,20 @@ To indicate interest in a bounty, feel free to post in the corresponding discuss
 
 The following bounties are available for anyone to pick up:
 
-- [JavaScript Code Samples](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples.md)
-- [JavaScript Code Samples 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0031%20JavaScript%20Code%20Samples%2.md)
+- [JavaScript Code Samples 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0077%20JavaScript%20Code%20Samples%202.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
 - [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0019%20Proof%20of%20Attendance%20Infrastructure.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
 - [Python Code Sample 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0079%20Python%20Code%20Samples%202.md)
 - [Interactive Tutorial for Send a Cross-Currency Payment](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0090%20Interactive%20Tutorial%20for%20Send%20a%20Cross-Currency%20Payment%202.md)
+
 <br>
 
 # Bounty Submission
 
 ## Contributing to existing open source projects
-To submit your bounty work to an existing open source repository (e.g. for contributions to [xrpl.org](https://github.com/XRPLF/xrpl-dev-portal)), please follow the corresponding repo's `CONTRIBUTING.md` instructions to create a pull request for maintainers to review.
 
+To submit your bounty work to an existing open source repository (e.g. for contributions to [xrpl.org](https://github.com/XRPLF/xrpl-dev-portal)), please follow the corresponding repo's `CONTRIBUTING.md` instructions to create a pull request for maintainers to review.
 
 ## Contributing to new bounty projects (open source)
 
@@ -55,9 +55,6 @@ To submit your bounty work for review (whether finished or a work-in-progress), 
 
 This will allow reviewers to directly comment on specific lines of code, clearly indicate when a bounty is accepted, and help increase the publicity for your work. The community will be able to find everything under the [XRPL Bounties GitHub organization](https://github.com/XRPLBounties).
 <br>
-
-
-
 
 # Claim a Bounty
 
@@ -72,8 +69,6 @@ Be aware that in order to validate that you are eligible to receive payment, you
 After submitting a bounty claim, please wait up to 5 business days for a response, expect emails to come from info@xrplbounties.org (they may go to spam).
 
 <br>
-
-
 
 # Propose New Bounty Ideas
 
@@ -111,8 +106,11 @@ If you see a bounty that you think is particularly important you can upvote it t
 <br>
 
 # Thanks For Contributing
-XRPL Bounties expresses sincere gratitude to all of the contributors who help to improve the XRP Ledger and related projects. Your hard work and dedication are highly valued and appreciated. 
+
+XRPL Bounties expresses sincere gratitude to all of the contributors who help to improve the XRP Ledger and related projects. Your hard work and dedication are highly valued and appreciated.
+
 ## Contributor List (In Alphabetical Order):
+
 - [AlexanderBuzz](https://github.com/AlexanderBuzz)
 - [golobitch](https://github.com/golobitch)
 - [kasiimh1](https://github.com/kasiimh1)
@@ -121,8 +119,6 @@ XRPL Bounties expresses sincere gratitude to all of the contributors who help to
 - [TusharPardhe](https://github.com/TusharPardhe)
 - [wojake](https://github.com/wojake)
 - [YossiBenAri](https://github.com/YossiBenAri)
-
-
 
 ## Links
 
