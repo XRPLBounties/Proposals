@@ -16,7 +16,7 @@ Bounty proposals require 3+ technical approvals _and_ budget approval before the
 Build a tutorial for sending a cross-currency payment on xrpl.org, reference issues [here](https://github.com/XRPLF/xrpl-dev-portal/issues/1198)
 
 ### requirements
-1. Write quality code samples in Javascript that shows steps to send a cross-currency payment, including: 
+1. Write a tutorial with quality code samples in JavaScript that shows steps to send a cross-currency payment, including: 
     - [ ] Pathfinding.
     - [ ] Setting reasonable `SendMax` values
     - [ ] Have to pay for any transfer fees plus the spread on Offers
