@@ -42,7 +42,7 @@ All steps must be completed (reviewed and approved) together in a PR to claim th
 
 | # | Description | Proposed Potential Award | Open? |
 | --- | --- | --- | --- |
-| 1 | Complete all steps in the detailed requirements| $2,500 | OPEN |
+| 1 | Complete all steps in the detailed requirements| $2,500 | CLOSED |
 
 ## Helpful links/resources
 
