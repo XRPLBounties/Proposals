@@ -2,7 +2,7 @@
 ID: "0077"
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/77
 Category: Technical Documentation
-Status: Open
+Status: In Review
 Amount: $10250
 ---
 
@@ -26,7 +26,7 @@ https://xrpl.org/code-samples.html
 | 2   | [Escrow](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/escrow/js)                                                | Create, finish, and cancel [Escrows](https://xrpl.org/escrow.html) are using depreciated RippleAPI. Update them to use current implementation.                            | $1000                    | Closed  |
 | 3   | Airgapped wallet                                                                                                                              | Folow the same implementation on our Python [code sample](https://github.com/XRPLF/xrpl-dev-portal/tree/master/content/_code-samples/airgapped-wallet/py).                | $2500                    | Closed  |
 | 4   | Account Tokens                                                                                                                                | Show (issued / fungible) tokens and other objects owned by an account.                                                                                                    | $500                     | Closed  |
-| 5   | [Build a Wallet](https://github.com/XRPLF/xrpl-dev-portal/tree/ec25f6bbddf182550186406f85913014aa423f44/content/_code-samples/build-a-wallet) | Build a desktop wallet for the XRPL Ledger following this Python [demonstration](https://xrpl.org/build-a-desktop-wallet-in-python.html#6-domain-verification-and-polish). This also requires creating a similar demonstration for JavaScript on xrpl.org. | $2000                    | Open  |
+| 5   | [Build a Wallet](https://github.com/XRPLF/xrpl-dev-portal/tree/ec25f6bbddf182550186406f85913014aa423f44/content/_code-samples/build-a-wallet) | Build a desktop wallet for the XRPL Ledger following this Python [demonstration](https://xrpl.org/build-a-desktop-wallet-in-python.html#6-domain-verification-and-polish). This also requires creating a similar demonstration for JavaScript on xrpl.org. | $2000                    | In Review [1](https://github.com/XRPLF/xrpl-dev-portal/pull/1734) [2]((https://github.com/XRPLF/xrpl-dev-portal/pull/1752))  |
 | 6   | Escrows History                                                                                                                               | List the Escrows on an existing account filtered by source and destination.                                                                                               | $750                     | Closed  |
 | 7   | Tickets                                                                                                                                       | List which [Tickets](https://xrpl.org/use-tickets.html) are outstanding against one’s own account and use Tickets to collect signatures for multisign transactions.       | $750                     | Closed  |
 | 8   | Account Deletion                                                                                                                              | Delete (or blackhole) an account.                                                                                                                                         | $500                     | Closed  |

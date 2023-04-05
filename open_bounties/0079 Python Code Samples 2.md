@@ -2,7 +2,7 @@
 ID: 0079
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/79
 Category: Technical Documentation
-Status: Open
+Status: In Review
 Amount: $5,000
 ---
 
@@ -24,7 +24,7 @@ https://xrpl.org/code-samples.html
 | --- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----- |
 | 1   | NFT                      | Mint (or batch mint) and burn an [NFT Token](https://xrpl.org/non-fungible-tokens.html#non-fungible-tokens-overview), assign an authorized minter, transfer NFT tokens (create, cancel, and accept offer). | $1500                    | Closed  |
 | 2   | Require Destination Tags | Enable [Require Destionation Tags](https://xrpl.org/require-destination-tags.html#require-destination-tags) for an account. Clarification: This should add a 'Python' tab for each step of the tutorial on xrpl.org.                                                                              | $500                     | Closed  |
-| 3   | Decentralized Exchange   | Buy and sell tokens in the [decentralized exchange](https://xrpl.org/decentralized-exchange.html). Follow this [guidance](https://xrpl.org/trade-in-the-decentralized-exchange.html) in JavaScript.                     | $500                     | Open  |
+| 3   | Decentralized Exchange   | Buy and sell tokens in the [decentralized exchange](https://xrpl.org/decentralized-exchange.html). Follow this [guidance](https://xrpl.org/trade-in-the-decentralized-exchange.html) in JavaScript.                     | $500                     | [In Review](https://github.com/XRPLF/xrpl-dev-portal/pull/1751)  |
 | 4   | Tickets                  | List which [Tickets](https://xrpl.org/use-tickets.html) are outstanding against one’s own account and use Tickets to collect signatures for multisign transactions.                                        | $750                     | Closed  |
 | 5   | Account Deletion         | Delete (or blackhole) an account.                                                                                                                                                                          | $500                     | Closed  |
 | 6   | NFTs                     | List an account’s [NFT pages](https://xrpl.org/nftokenpage.html#nftokenpage) and see token offers for that account’s NFTs.                                                                                 | $750                     | Closed  |
