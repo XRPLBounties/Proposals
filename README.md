@@ -130,4 +130,4 @@ XRPL Bounties expresses sincere gratitude to all of the contributors who help to
 - See other people's ideas for bounties: https://github.com/XRPLBounties/Proposals/discussions
 - Share an idea for a bounty: https://github.com/XRPLBounties/Proposals/discussions/new?category=ideas
 
-## If you have questions, please send them to info@xrplbounties.org (We will aim to respond within 2-3 business days)
+## If you have questions, please send them to info@xrplbounties.org
