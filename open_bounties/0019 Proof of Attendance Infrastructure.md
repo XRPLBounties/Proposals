@@ -40,3 +40,4 @@ Basic requirements:
 | 3   | Event NFT ownership verification                   | Add an API for people to verify the event NFT - using their signiture to prove that they are the owner of the account associated with the NFT. | $2,000                   | Closed |
 | 4  | Deployed no-code tool for non-technical event organizers                   | Add a frontend (preferably a form) with wallet integration (XUMM) for non-technical event organizers to mint and distribute event NFT's, the website should be deployed publicly and deployment details should be included in the README (this milestone prize is not covering minting fees for organizers) | $1,500                   | Open |
 
+[^1]: In review means we have a received a submission for this milestone which is still in consideration, but we are providing feedback to. This does not mean they will necessary be awarded the milestone, but they do have existing work.

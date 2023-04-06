@@ -45,12 +45,12 @@ The first milestone should be the core functionality, while the rest can be usef
 (The proposed amounts from milestones should add up to the amount listed at the top of the bounty proposal)
 -->
 
-| # | Description | Details | Proposed Potential Award |
-| --- | --- | --- | --- |
-|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 |
-|2| Launch | Submit and [launch the app on the Shopify app store](https://shopify.dev/apps/store/review) | $5,000 |
-|3| Adoption | Get 100+ installs | $5,000 |
-|4| Education (optional) | Open source repo for a Shopify app that at a minimum allows creating/viewing/deleting XLS-20 NFTs. This can be a barebones version of your app or an entirely different idea, but should serve as a teaching tool for other Shopify developers. | $2,000 |
+| # | Description | Details | Proposed Potential Award | Status |
+| --- | --- | --- | --- | --- |
+|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 | In Review |
+|2| Launch | Submit and [launch the app on the Shopify app store](https://shopify.dev/apps/store/review) | $5,000 | Open |
+|3| Adoption | Get 100+ installs | $5,000 | Open |
+|4| Education (optional) | Open source repo for a Shopify app that at a minimum allows creating/viewing/deleting XLS-20 NFTs. This can be a barebones version of your app or an entirely different idea, but should serve as a teaching tool for other Shopify developers. | $2,000 | Open |
 
 **Detailed requirements:**
 
@@ -87,3 +87,5 @@ Ex.
 [novel.com](https://www.novel.com/)
 
 ![TokenGateExample](https://user-images.githubusercontent.com/20135683/209374864-df336d9b-1582-4519-87fa-7e75297adbef.gif)
+
+[^1]: In review means we have a received a submission for this milestone which is still in consideration, but we are providing feedback to. This does not mean they will necessary be awarded the milestone, but they do have existing work.
