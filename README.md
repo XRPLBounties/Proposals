@@ -111,8 +111,10 @@ XRPL Bounties expresses sincere gratitude to all of the contributors who help to
 
 - [AlexanderBuzz](https://github.com/AlexanderBuzz)
 - [golobitch](https://github.com/golobitch)
+- [JustAnotherDevv](https://github.com/JustAnotherDevv)
 - [kasiimh1](https://github.com/kasiimh1)
 - [ObiajuluM](https://github.com/ObiajuluM)
+- [rikublock](https://github.com/rikublock)
 - [ripci504](https://github.com/ripci504)
 - [TusharPardhe](https://github.com/TusharPardhe)
 - [wojake](https://github.com/wojake)
