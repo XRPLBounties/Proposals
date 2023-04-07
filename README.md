@@ -11,7 +11,7 @@ The XRPL Bounties program helps to:
 
 All while paying people for the contributions they make. 💰
 
-<br>
+<br> 
 
 # Pick Up a Bounty
 
