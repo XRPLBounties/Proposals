@@ -24,7 +24,9 @@ Each bounty will describe a problem, what the work entails, and how much money w
 
 Bounty work is usually split into milestones, which divide the work into incremental features, each of which is worth a piece of the total bounty. The first milestone is often required, while the rest are valuable add-ons.
 
-If you see a bounty you like in the repo, feel free to get started!
+If you see a bounty you like in the repo with `Open` milestones, feel free to get started!
+
+If a bounty milestone is marked as `In Review`, it means someone else has submitted work, but it has not been accepted yet. There is often back and forth feedback to ensure a submission meets the requirements for the bounty. Even if a bounty is in review you can still propose an alternate implementation.
 
 To indicate interest in a bounty, feel free to post in the corresponding discussion for it!
 

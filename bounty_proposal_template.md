@@ -53,3 +53,5 @@ Ex.
 * Are there open source projects which can be used as a reference?
 * Are there particularly relevant documentation pages?
 -->
+
+[^1]: In review means we have a received a submission for this milestone which is still in consideration, but we are providing feedback to. This does not mean they will necessary be awarded the milestone, but they do have existing work.

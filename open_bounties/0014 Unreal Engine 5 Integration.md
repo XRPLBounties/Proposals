@@ -29,3 +29,5 @@ Beyond that, other milestones involve adding additional features to allow game d
 | --- | --- | --- | --- |
 | 1 | Basic Plug-In | Create a free, well-documented “Code Plug-In” on the Unreal Engine Marketplace that meets the 4 requirements above. | $2,000 |
 | 2 | Proof of Concept | Create an example game which allows for payments as an example for other developers | $1,000 |
+
+[^1]: In review means we have a received a submission for this milestone which is still in consideration, but we are providing feedback to. This does not mean they will necessary be awarded the milestone, but they do have existing work.
