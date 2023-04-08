@@ -99,7 +99,7 @@ Once the PR is merged, the bounty is live and anyone can pick it up!
 Even if all you want to do is browse, you can help us out by adding your perspective to the various discussions!
 https://github.com/XRPLBounties/Proposals/discussions
 
-If you see a bounty that you think is particularly important you can upvote it to help it get the attention it deserves 🙂
+If you see a bounty that you think is particularly important you can upvote it to help it get the attention it deserves. 🙂
 
 **Hopefully by working together we can build a stronger ecosystem!**
 
