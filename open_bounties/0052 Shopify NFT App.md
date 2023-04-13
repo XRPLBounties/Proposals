@@ -62,7 +62,6 @@ Merchant dashboard features
   - [ ] selection for NFTs used in the campaign to act as the gate; as the merchant will likely be minting NFTs for other purposes, we want to allow the merchant to select which specific NFTs will be used for this campaign
   - [ ] associate reward/promo for NFT(s) such as discount, BOGO and/or free product
   - [ ] selection of included products or collections to which the promo applies, as the merchant will likely have products they don't want discounted
-  - [ ] specific qualifying conditions (ie. must have 3 specific NFTs); some products might be special and require 2 or more NFTs to unlock promo
 
 Merchant storefront features
 - [ ] display widget via [Shopify app theme extension](https://shopify.dev/apps/online-store/theme-app-extensions) to connect wallet
