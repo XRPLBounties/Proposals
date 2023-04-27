@@ -47,7 +47,7 @@ The first milestone should be the core functionality, while the rest can be usef
 
 | # | Description | Details | Proposed Potential Award | Status |
 | --- | --- | --- | --- | --- |
-|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 | In Review |
+|1| Create | Create a Shopify app that uses XLS-20 NFTs on XRPL to drive sales and engagement for a merchant. Detailed requirements are listed below.| $5,000 | Closed |
 |2| Launch | Submit and [launch the app on the Shopify app store](https://shopify.dev/apps/store/review) | $5,000 | Open |
 |3| Adoption | Get 100+ installs | $5,000 | Open |
 |4| Education (optional) | Open source repo for a Shopify app that at a minimum allows creating/viewing/deleting XLS-20 NFTs. This can be a barebones version of your app or an entirely different idea, but should serve as a teaching tool for other Shopify developers. | $2,000 | Open |
