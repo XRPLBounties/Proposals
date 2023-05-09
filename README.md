@@ -67,6 +67,8 @@ Be aware that in order to validate that you are eligible to receive payment, you
 
 After submitting a bounty claim, please wait up to 5 business days for a response, expect emails to come from info@xrplbounties.org (they may go to spam).
 
+Payments take between 60-120 days to process from when a milestone is accepted in order for paperwork to be signed, processed, and payment issued.
+
 <br>
 
 # Propose New Bounty Ideas
