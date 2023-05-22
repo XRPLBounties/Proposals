@@ -38,7 +38,7 @@ The following bounties are available for anyone to pick up:
 
 - [JavaScript Code Samples 2](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0077%20JavaScript%20Code%20Samples%202.md)
 - [Unreal Engine 5 Integration](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0014%20Unreal%20Engine%205%20Integration.md)
-- [Frontend Proof of Attendance Infrastructure App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0119%20Frontend%20POAP%20Web%20APP.md%20)
+- [Frontend Proof of Attendance Infrastructure App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0119%20Frontend%20POAP%20Web%20APP.md)
 - [Shopify NFT App](https://github.com/XRPLBounties/Proposals/blob/main/open_bounties/0052%20Shopify%20NFT%20App.md)
   <br>
 
