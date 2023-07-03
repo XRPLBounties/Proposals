@@ -55,10 +55,10 @@ Provide event organizers with a no-code tool for distributing NFTs for attendanc
 
 ## Milestones
 
-| Milestone | Description | Budget Allocation |
-|-----------|-------------|-------------------|
-| 1 | API Integration | $1,000 |
-| 2 | UI/UX design wireframes | $1,500 |
-| 3 | XUMM and GEM wallet integration | $1,000 |
-| 4 | Event Organizer Dashboard Feature (8 detailed requirements above - $500 each) | $4,000 |
-| 5 | Event Attendee Dashboard Features (5 detailed requirements above $500 each) | $2,500 |
+| Milestone | Description | Budget Allocation | Open? |
+|-----------|-------------|-------------------|-------|
+| 1 | API Integration | $1,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
+| 2 | UI/UX design wireframes | $1,500 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
+| 3 | XUMM and GEM wallet integration | $1,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
+| 4 | Event Organizer Dashboard Feature (8 detailed requirements above - $500 each) | $4,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
+| 5 | Event Attendee Dashboard Features (5 detailed requirements above $500 each) | $2,500 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
