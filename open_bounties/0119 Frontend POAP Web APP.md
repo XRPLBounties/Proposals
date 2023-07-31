@@ -21,8 +21,7 @@ Provide event organizers with a no-code tool for distributing NFTs for attendanc
 1. **Event Creation**: Enable event organizers to create and manage events within the web app.
 2. **NFT Distribution**: Utilize XLS-20 NFTs on XRPL and the backend [Proof of Attendance Infrastructure](https://github.com/XRPLBounties/Proof-of-Attendance) to distribute NFTs to attendees that meet the organizer's criteria for rewards or recognition.
 3. **Attendance Tracking**: Allow event organizers to monitor long-term participation records of developers and enthusiasts, rewarding them for loyalty and granting access to additional resources.
-4. **Identity Verification**: Collect names and emails to verify user identity and associate a wallet with an identity without requiring full KYC procedures.
-5. **XUMM Integration**: Incorporate XUMM wallet functionality for secure and user-friendly XRPL interactions.
+4. **XUMM Integration**: Incorporate XUMM wallet functionality for secure and user-friendly XRPL interactions.
 
 ## Benefits
 
@@ -32,33 +31,110 @@ Provide event organizers with a no-code tool for distributing NFTs for attendanc
 
 ## Detailed Requirements
 
-### Event Organizer Dashboard Features
+In order to make a usable Proof of Attendance Protocol, we need a front end that can be used by event organizers and event attendees with minimal technical knowledge. A backend to handle key features like issuing NFTs, verifying ownership and such has already been completed, so this focuses on how to add a front end to make the tool usable. (Through this process, there may be updates to the backend)
 
-1. Event organizer XRPL account set up/connection using XUMM Wallet
-2. Mint/View/Distribute XLS-20 NFTs on XRPL (using [POAP Infrastructure](https://github.com/XRPLBounties/Proof-of-Attendance))
-3. Create a token-gated campaign with properties below:
-   - Allow specification of start date, end date, event descriptions, graphics.
-   - Selection for NFTs used in the organizer to act as the gate; as the organizer will likely be minting NFTs for other purposes, we want to allow the organizer to select which specific NFTs will be used for this event
-4. Distribution of NFTs to attendees
-5. Attendee lookup and verification
-6. Search module for attendees given their wallet address
-7. Verification of NFT ownership using wallet signature.
-8. *Stretch Requirement*: Create the ability for event organizers to blast email attendees
+Ultimately, there are three types of users:
+1. Event organizers
+2. Event attendees
+3. The Admin / Tool Operator (needs technical expertise)
 
-### Event Attendee Dashboard Features
+### Event organizers need to be able to
+1. Create an event
+2. Cancel an event
+3. Get a link to share with attendees for attendees to redeem the NFT
+4. See how many NFTs are minted / claimed
+5. See who has claimed the NFTs
+   - They also need to be able to search for an account via their wallet address
 
-1. Event attendee account set up using email address and names
-2. Display widget to connect wallet for attendee (XUMM)
-3. Claim attendance NFT's via XUMM
-4. Apply reward to displayed coupons when NFT conditions are met by the wallet
-5. *Stretch Requirement*: RSVP for future events
+### Attendees need to be able to
+1. Claim an NFT if they have the event link
+2. Verify ownership of the NFT (to prove they’re the account holder)
+
+### The Admin needs to be able to:
+1. View all events on their platform
+   - But shouldn’t have access to the links to redeem NFTs
+2. Cancel any event on their platform
+   - In order to free up their reserve requirements
+
+**In order to implement these action items we expect to need several pages:**
+
+An “Organizer Home” page where event organizers can log in and manage their events.
+An “Organizer Event Details Page” which provides additional info on an event.
+An “Attendee Event” page where attendees can go to claim an NFT (optional idea: this could be linked via QR code during the event as a way to distribute the link)
+This would also have event-specific information if the organizer is logged in with their wallet.
+An “Admin” page for the 3rd party operator (“Admin”) to configure things
+
+### Organizer Home Page before Login
+
+1. A clean and straightforward interface that welcomes users to the platform.
+2. Button for "Organizer Login" Leading to XUMM wallet connection.
+
+### Organizer Home Page after Login:
+1. A welcoming personalized greeting, including the Organizer's name or organization.
+2. Overview of the Organizer's created events: 
+   - This could be a list or cards displaying essential information about each event (name, date, number of attendees, status).
+   - The cards should indicate the status of the event
+      1. Ongoing
+      2. Completed
+      3. Canceled
+3. A way to “Create a New Event”
+4. The "Create New Event" option should lead to a detailed form where the organizer can specify event details 
+   - Start Date
+   - End Date
+   - Description
+   - Graphic
+   - Event ID
+      - Which must be unique across all events to allow for looking up the event after the fact
+   - 
+5. Upon clicking the submit button, an AccountSet transaction would be created to set the third party as the minter, which requires XUMM signing. Additionally, a pre-fund payment transaction would be created to meet reserve requirements, which also requires XUMM signing.
+6. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
+7. Clicking an event should lead to a “Event Details Page for Organizers”
+
+
+### Event Details Page for Organizers
+1. A button to cancel the event
+2. A record of how many NFTs were created, and how many have been claimed
+3. A list of addresses which have claimed the NFTs
+4. A link to the “Attendee Event” page which can be shared to attendees to allow them to claim the NFT.
+
+### Event Page for Attendees
+1. The page should display event details (recorded from the “Create Event” form)
+2. It should include the # of NFTs left to be claimed
+3. It should also have a QR code attendees can use to claim the NFT via Xumm
+   - Ideally there can be one QR code / website visual that can be put up on a screen, and all attendees can scan it to claim an NFT for themselves.
+
+### Admin Page
+1. The admin should have the ability to view all outstanding events, organized by event
+2. They should also have the ability to cancel any outstanding events
+3. They should also be able to see all organizers that have logged into the platform
+4. There should be a live updating account balance
+   - Next to that there should be a live updating reserve requirement
+   - If they are close to running out of reserve, that should be indicated somewhere
+
+
+### Additional Details (for specific features)
+
+#### Canceling an event logic
+1. Canceled events should have all unclaimed NFTs be burned to free up the reserve. 
+2. They should also still appear in the “history” for events created by an event organizer, maintaining their detailed event pages so the event organizer can still look up who claimed NFTs before it was canceled. 
+3. Canceled events should have a label saying “Canceled” in the list of events for an event organizer.
+4. Events should be cancelable by both Event Organizers and Admins
+
+#### Reserve Requirement math
+
+```
+Reserve Unit = 2 XRP
+Average NFTs per NFTokenPage = 24 (https://xrpl.org/nftokenpage.html#reserve-for-nftokenpage-objects)
+Normal # of tickets for event = 100
+
+NFTokenPage Reserve = 2 * (100/24) = 8.33 = 10 XRP (Reserves round up)
+
+Reserve for Tickets = 2 * Max Number of Tickets ~= 10 XRP - 500 XRP (one-time reserve for the admin)
+NFTokenOffer Reserve = 2 * NFTokens (worse case) = 200 XRP (worst case)
+```
 
 ## Milestones
 
 | Milestone | Description | Budget Allocation | Open? |
 |-----------|-------------|-------------------|-------|
-| 1 | API Integration | $1,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
-| 2 | UI/UX design wireframes | $1,500 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
-| 3 | XUMM and GEM wallet integration | $1,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
-| 4 | Event Organizer Dashboard Feature (8 detailed requirements above - $500 each) | $4,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
-| 5 | Event Attendee Dashboard Features (5 detailed requirements above $500 each) | $2,500 | [In Review](https://github.com/XRPLBounties/POAP-APP/pulls) |
+| 1 | Creating the full front end | $10,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
