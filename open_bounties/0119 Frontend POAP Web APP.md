@@ -70,7 +70,7 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
 2. Button for "Organizer Login" Leading to XUMM wallet connection.
 
 ### Organizer Home Page after Login:
-1. A welcoming personalized greeting, including the Organizer's name or organization.
+1. A welcoming personalized greeting, including the Organizer's account address.
 2. Overview of the Organizer's created events: 
    - This could be a list or cards displaying essential information about each event (name, date, number of attendees, status).
    - The cards should indicate the status of the event
@@ -85,17 +85,20 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
    - Graphic
    - Event ID
       - Which must be unique across all events to allow for looking up the event after the fact
-   - 
-5. Upon clicking the submit button, an AccountSet transaction would be created to set the third party as the minter, which requires XUMM signing. Additionally, a pre-fund payment transaction would be created to meet reserve requirements, which also requires XUMM signing.
-6. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
-7. Clicking an event should lead to a “Event Details Page for Organizers”
+   - The number of NFTs to create
+5. At the bottom of the "Create New Event" form, there should be a live preview of the reserve required (preferrably with UI showing the formula being used to calculate + a link to the docs to avoid confusions around why the reserve is required).
+6. Once paid, the NFTs should be created in the background. 
+   - If the minting fails for whatever reason, the reserve should be returned to the Event Organizer.
+7. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
+8. Clicking an event should lead to a “Event Details Page for Organizers”
 
 
 ### Event Details Page for Organizers
 1. A button to cancel the event
 2. A record of how many NFTs were created, and how many have been claimed
 3. A list of addresses which have claimed the NFTs
-4. A link to the “Attendee Event” page which can be shared to attendees to allow them to claim the NFT.
+4. A link to the “Attendee Event” page which can be shared to attendees to allow them to claim the NFT
+5. A record of how much XRP they have deposited with the Admin account to pay reserves
 
 ### Event Page for Attendees
 1. The page should display event details (recorded from the “Create Event” form)
@@ -110,6 +113,7 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
 4. There should be a live updating account balance
    - Next to that there should be a live updating reserve requirement
    - If they are close to running out of reserve, that should be indicated somewhere
+5. They should be able to see a list of reserves provided from Event Organizers
 
 
 ### Additional Details (for specific features)
@@ -119,6 +123,7 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
 2. They should also still appear in the “history” for events created by an event organizer, maintaining their detailed event pages so the event organizer can still look up who claimed NFTs before it was canceled. 
 3. Canceled events should have a label saying “Canceled” in the list of events for an event organizer.
 4. Events should be cancelable by both Event Organizers and Admins
+5. The reserve, once freed, should be returned to the Event Organizer via a payment transaction.
 
 #### Reserve Requirement math
 
