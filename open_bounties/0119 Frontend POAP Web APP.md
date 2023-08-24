@@ -85,12 +85,16 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
    - Graphic
    - Event ID
       - Which must be unique across all events to allow for looking up the event after the fact
-   - The number of NFTs to create
-5. At the bottom of the "Create New Event" form, there should be a live preview of the reserve required (preferrably with UI showing the formula being used to calculate + a link to the docs to avoid confusions around why the reserve is required).
-6. Once paid, the NFTs should be created in the background. 
+   - The number of NFTs to create (Capped to 200 attendees)
+5. At the bottom of the "Create New Event" form, there should be a live preview of the reserve required (preferably with UI showing the formula being used to calculate + a link to the docs to avoid confusions around why the reserve is required).
+   - This should also indicate how much reserve the issuer already has with the platform, and show how much creating this event would cost temporarily.
+6. If authorized minting is not already set, display a Xumm transaction to enable authorized minting with the platform 
+If this fails, cancel the event creation with an error message
+7. A transaction to pay the platform the difference in reserve requirement should be next.
+8. Once paid, the NFTs should be created in the background on behalf of the event organizer. 
    - If the minting fails for whatever reason, the reserve should be returned to the Event Organizer.
-7. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
-8. Clicking an event should lead to a “Event Details Page for Organizers”
+9. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
+10. Clicking an event should lead to a “Event Details Page for Organizers”
 
 
 ### Event Details Page for Organizers
@@ -115,6 +119,10 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
    - If they are close to running out of reserve, that should be indicated somewhere
 5. They should be able to see a list of reserves provided from Event Organizers
 
+### Documentation
+The README for the backend and frontend should be enough for a technical person to be able to set up the tool on their machine. This does not need to be formatted in any fancy way.
+Attendees should be able to claim an NFT from the Event Page as non-technical users. (So include instructions on screen if those are necessary to make that happen)
+Event Organizers should be able to understand how to log in, create an event, and distribute the NFTs from the UI as non-technical users. (That may mean including instructions or descriptive names, or a tab called “Instructions” - how this is accomplished is flexible)
 
 ### Additional Details (for specific features)
 
@@ -142,4 +150,7 @@ NFTokenOffer Reserve = 2 * NFTokens (worse case) = 200 XRP (worst case)
 
 | Milestone | Description | Budget Allocation | Open? |
 |-----------|-------------|-------------------|-------|
-| 1 | Creating the full front end | $10,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 1 | Creating the flow to distribute NFTs to attendees | $4,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 2 | Creating the admin page | $3,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 3 | Creating and handling authorized minting | $3,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 4 | Completing the remaining requirements so that it is usable by admins, event organizers, and attendees | $5,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
