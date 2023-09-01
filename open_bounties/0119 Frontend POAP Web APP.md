@@ -92,7 +92,7 @@ An “Admin” page for the 3rd party operator (“Admin”) to configure things
 If this fails, cancel the event creation with an error message
 7. A transaction to pay the platform the difference in reserve requirement should be next.
 8. Once paid, the NFTs should be created in the background on behalf of the event organizer. 
-   - If the minting fails for whatever reason, the reserve should be returned to the Event Organizer.
+   - If the minting fails for whatever reason, the reserve and XRP given for fees should be returned to the Event Organizer.
 9. After creating the NFTs, the page should automatically redirect to the detailed page for the event (which contains a link that can be shared with attendees for them to claim the NFTs)
 10. Clicking an event should lead to a “Event Details Page for Organizers”
 
