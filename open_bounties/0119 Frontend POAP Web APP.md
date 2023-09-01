@@ -144,6 +144,7 @@ NFTokenPage Reserve = 2 * (100/24) = 8.33 = 10 XRP (Reserves round up)
 
 Reserve for Tickets = 2 * Max Number of Tickets ~= 10 XRP - 500 XRP (one-time reserve for the admin)
 NFTokenOffer Reserve = 2 * NFTokens (worse case) = 200 XRP (worst case)
+Lastly, we'll need to add 1 XRP to cover the fees associated with all these transactions. (Since fees tend to be ~10 drops, this should be plenty)
 ```
 
 ## Milestones
