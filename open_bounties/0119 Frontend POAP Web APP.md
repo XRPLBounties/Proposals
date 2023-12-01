@@ -3,7 +3,7 @@ ID: 0119
 Discussion: https://github.com/XRPLBounties/Proposals/discussions/119
 Category: Community Tools, Events
 Status: Open
-Amount: $10,000
+Amount: $15,000
 ---
 
 # Proof of Attendance Web App for XRPL Events
