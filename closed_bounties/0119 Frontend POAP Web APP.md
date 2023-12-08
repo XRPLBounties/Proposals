@@ -151,7 +151,7 @@ Lastly, we'll need to add 1 XRP to cover the fees associated with all these tran
 
 | Milestone | Description | Budget Allocation | Open? |
 |-----------|-------------|-------------------|-------|
-| 1 | Creating the flow to distribute NFTs to attendees | $4,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
-| 2 | Creating the admin page | $3,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
-| 3 | Creating and handling authorized minting | $3,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
-| 4 | Completing the remaining requirements so that it is usable by admins, event organizers, and attendees | $5,000 | [In Review](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 1 | Creating the flow to distribute NFTs to attendees | $4,000 | [Completed](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 2 | Creating the admin page | $3,000 | [Completed](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 3 | Creating and handling authorized minting | $3,000 | [Completed](https://github.com/XRPLBounties/POAP-APP/pull/2) |
+| 4 | Completing the remaining requirements so that it is usable by admins, event organizers, and attendees | $5,000 | [Completed](https://github.com/XRPLBounties/POAP-APP/pull/2) |
